@@ -1,0 +1,18 @@
+INTRODUCE JUPYTER IDE
+- cell structure
+- inserting new cells, deleting, running
+- check order of running cells
+- show how to test values
+- differences on how interactions are prompted
+
+VARIABLE TYPES
+- creating a variable (Python is automatic) - strings, integers, floats, boolean
+- checking types
+- casting
+
+- show condensing (no temporary variables)
+- 
+
+GENERAL PROGRAMMING
+- asking google is default, all programmers do it
+- look for stack overflow (exchange) fo best results
