@@ -1,0 +1,1796 @@
+day,tempMin,tempMax,summary,desc,cloudCover,humidity,windSpeed,visibility
+2015-01-01,7.53,12.23,Possible light rain until evening.,rain,0.8,0.89,14.69,4.43
+2015-01-02,3.58,7.15,Possible light rain throughout the day.,rain,0.62,0.79,15.04,5.64
+2015-01-03,-0.61,6.54,Clear throughout the day.,rain,0.31,0.84,4.48,6.2
+2015-01-04,-0.63,7.59,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.85,4.35,6.22
+2015-01-05,6.51,10.43,Overcast throughout the day.,partly-cloudy-day,0.85,0.91,6.2,5.91
+2015-01-06,3.66,9.95,Possible light rain in the morning and afternoon.,rain,0.63,0.88,8.7,5.93
+2015-01-07,4.58,11.13,Light rain throughout the day.,rain,0.77,0.88,15.5,4.93
+2015-01-08,4.25,7.11,"Light rain until morning, starting again in the evening.",rain,0.6,0.83,12.28,5.66
+2015-01-09,4.64,12.31,Light rain starting in the afternoon.,rain,0.84,0.83,19.19,4.54
+2015-01-10,1.85,12.38,"Light rain until morning, starting again in the evening.",rain,0.7,0.82,19.92,5.26
+2015-01-11,1.67,7.57,"Light rain until afternoon, starting again overnight.",rain,0.8,0.88,14.9,5.44
+2015-01-12,3.69,8.74,"Light rain until afternoon, starting again overnight.",rain,0.78,0.8,18.57,5.27
+2015-01-13,0.88,5.19,Partly cloudy throughout the day.,rain,0.68,0.83,11.19,6.22
+2015-01-14,1.39,7.52,Possible light rain starting in the afternoon.,rain,0.61,0.85,12.23,5.48
+2015-01-15,4.17,7.85,Possible light rain in the afternoon and evening.,rain,0.78,0.78,22.37,5.75
+2015-01-16,0.68,4.11,Foggy in the afternoon.,partly-cloudy-day,0.52,0.82,9.64,5.79
+2015-01-17,-2.49,2.43,Possible drizzle in the morning and afternoon.,rain,0.53,0.92,3.59,5.84
+2015-01-18,-2.45,3.9,Clear throughout the day.,partly-cloudy-day,0.37,0.81,4.13,5.7
+2015-01-19,-4.74,1.04,Clear throughout the day.,clear-day,0.13,0.85,2.13,6.22
+2015-01-20,-3.87,1.72,Clear throughout the day.,clear-day,0.27,0.86,2.69,5.75
+2015-01-21,-2.88,1.58,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.87,1.62,4.08
+2015-01-22,-1.22,2.97,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.89,2.54,4.28
+2015-01-23,2.4,7.92,Possible light rain throughout the day.,rain,0.8,0.9,9.21,4.96
+2015-01-24,1.66,5.98,Partly cloudy throughout the day.,rain,0.56,0.86,8.69,6.12
+2015-01-25,5.24,9.82,Possible light rain in the evening and overnight.,rain,0.91,0.91,11.1,5.19
+2015-01-26,4.26,7.57,Mostly cloudy throughout the day.,rain,0.54,0.83,9.38,6.21
+2015-01-27,5.25,8.41,Possible drizzle overnight.,partly-cloudy-day,0.78,0.91,9.47,5.37
+2015-01-28,-0.01,8.18,Possible light rain in the morning.,rain,0.76,0.88,15.18,4.57
+2015-01-29,-2.2,2.85,Possible drizzle in the afternoon.,rain,0.55,0.87,6.95,5.88
+2015-01-30,-2.77,4.52,Partly cloudy throughout the day.,clear-day,0.3,0.83,7.76,6.22
+2015-01-31,1.55,4.61,Clear throughout the day.,clear-day,0.28,0.74,9.99,6.22
+2015-02-01,-1.75,4.03,Clear throughout the day.,clear-day,0.3,0.68,6.41,6.22
+2015-02-02,-3.13,3.82,Clear throughout the day.,clear-day,0.04,0.83,2.88,6.22
+2015-02-03,-5.67,3.47,Clear throughout the day.,clear-day,0.16,0.8,2.62,5.89
+2015-02-04,-4.59,4.42,Clear throughout the day.,clear-day,0.03,0.8,2.56,6.21
+2015-02-05,0.46,8.05,Foggy overnight.,partly-cloudy-day,0.44,0.87,2.19,6.22
+2015-02-06,-1.52,6.95,Foggy in the morning and overnight.,partly-cloudy-day,0.53,0.88,1.92,3.63
+2015-02-07,-1.64,8.42,Foggy in the morning.,clear-day,0.2,0.87,2.13,4.3
+2015-02-08,-1.23,7.85,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.89,4.74,5.83
+2015-02-09,5.32,9.11,Overcast throughout the day.,cloudy,0.92,0.87,7.53,6.22
+2015-02-10,3.43,6.85,Overcast throughout the day.,cloudy,0.97,0.87,5.31,6.12
+2015-02-11,3.23,5.93,Overcast throughout the day.,cloudy,0.97,0.84,5.53,5.53
+2015-02-12,3.72,8.13,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.82,4.0,6.11
+2015-02-13,3.52,6.8,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.82,8.08,4.91
+2015-02-14,5.36,9.08,Overcast throughout the day.,cloudy,0.94,0.86,4.44,5.39
+2015-02-15,5.11,10.18,Possible drizzle overnight.,rain,0.63,0.79,6.97,6.02
+2015-02-16,1.65,7.07,Possible drizzle in the morning.,rain,0.55,0.86,6.53,6.18
+2015-02-17,1.1,7.81,Possible drizzle overnight.,partly-cloudy-day,0.7,0.85,11.05,6.16
+2015-02-18,6.97,11.1,"Possible light rain until morning, starting again in the evening.",rain,0.94,0.89,13.38,5.7
+2015-02-19,3.54,9.32,"Possible drizzle until morning, starting again in the evening.",rain,0.6,0.82,11.48,6.14
+2015-02-20,1.02,5.79,Possible drizzle in the afternoon.,rain,0.68,0.88,7.13,6.2
+2015-02-21,-0.23,5.43,Foggy overnight.,partly-cloudy-day,0.5,0.87,5.58,5.99
+2015-02-22,-0.7,6.98,Light rain until evening.,rain,0.84,0.92,6.83,4.33
+2015-02-23,1.99,5.09,Light rain throughout the day.,rain,0.82,0.84,16.14,5.46
+2015-02-24,2.36,6.12,Possible drizzle until evening.,rain,0.59,0.79,13.73,6.2
+2015-02-25,0.53,10.37,Possible light rain in the evening and overnight.,rain,0.63,0.92,5.1,5.17
+2015-02-26,1.58,10.76,"Light rain until morning, starting again in the evening.",rain,0.64,0.85,12.92,5.77
+2015-02-27,1.81,7.01,Possible drizzle in the morning and overnight.,rain,0.62,0.84,10.88,5.95
+2015-02-28,5.97,9.85,Possible light rain starting in the afternoon.,rain,0.88,0.88,13.35,5.19
+2015-03-01,2.01,7.02,Possible light rain in the morning and afternoon.,rain,0.72,0.85,14.68,5.63
+2015-03-02,0.99,4.37,Mostly cloudy throughout the day.,partly-cloudy-day,0.68,0.85,11.08,6.16
+2015-03-03,1.02,4.73,Light rain throughout the day.,rain,0.67,0.84,11.64,5.87
+2015-03-04,2.42,8.59,Partly cloudy throughout the day.,rain,0.44,0.78,8.31,6.22
+2015-03-05,6.38,9.93,Overcast throughout the day.,cloudy,0.89,0.83,12.61,5.89
+2015-03-06,7.13,9.58,Light rain in the evening and overnight.,rain,0.69,0.8,15.17,6.05
+2015-03-07,7.88,12.22,"Light rain until afternoon, starting again overnight.",rain,0.86,0.89,18.47,4.57
+2015-03-08,3.43,10.12,Possible light rain in the morning.,rain,0.57,0.8,11.74,6.03
+2015-03-09,1.49,10.93,"Possible light rain until afternoon, starting again overnight.",rain,0.58,0.81,13.37,5.85
+2015-03-10,1.58,9.52,Partly cloudy throughout the day.,rain,0.38,0.75,9.35,6.22
+2015-03-11,1.08,8.72,Light rain in the afternoon.,rain,0.36,0.81,8.85,5.88
+2015-03-12,0.83,9.98,Light rain starting in the afternoon.,rain,0.67,0.88,6.82,5.72
+2015-03-13,1.33,10.0,Foggy in the morning.,rain,0.44,0.83,3.11,5.06
+2015-03-14,2.36,6.26,Overcast throughout the day.,cloudy,0.95,0.72,4.65,5.86
+2015-03-15,-1.12,7.6,Overcast throughout the day.,partly-cloudy-day,0.7,0.8,4.45,6.22
+2015-03-16,4.15,7.21,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.84,4.06,5.94
+2015-03-17,2.46,7.71,Foggy overnight.,partly-cloudy-day,0.86,0.85,2.14,3.43
+2015-03-18,2.83,11.43,Foggy in the morning and overnight.,partly-cloudy-day,0.51,0.79,1.6,4.29
+2015-03-19,-0.17,11.46,Foggy in the morning.,partly-cloudy-day,0.33,0.78,2.07,3.83
+2015-03-20,4.24,10.31,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.84,6.71,5.47
+2015-03-21,0.37,12.04,Clear throughout the day.,clear-day,0.02,0.75,2.75,6.22
+2015-03-22,3.65,11.17,Partly cloudy throughout the day.,partly-cloudy-day,0.66,0.8,7.88,6.13
+2015-03-23,3.15,10.62,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.77,9.62,6.12
+2015-03-24,1.58,8.73,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.8,4.44,6.21
+2015-03-25,-2.03,9.13,Light rain overnight.,clear-day,0.24,0.73,3.77,6.22
+2015-03-26,1.71,9.67,Light rain in the morning.,rain,0.77,0.81,10.96,5.06
+2015-03-27,1.4,9.39,Possible light rain overnight.,partly-cloudy-day,0.57,0.74,6.27,6.22
+2015-03-28,4.53,11.69,"Possible light rain until morning, starting again in the evening.",rain,0.75,0.86,10.64,5.46
+2015-03-29,3.27,7.59,Drizzle in the evening and overnight.,rain,0.78,0.87,8.57,6.06
+2015-03-30,1.77,9.06,Light rain starting in the afternoon.,rain,0.73,0.86,11.25,5.73
+2015-03-31,2.75,8.05,Possible drizzle in the morning and afternoon.,rain,0.65,0.78,18.56,5.76
+2015-04-01,1.97,8.12,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.8,11.54,6.22
+2015-04-02,-1.02,9.69,Light rain overnight.,clear-day,0.11,0.68,2.93,6.22
+2015-04-03,2.69,9.37,Drizzle in the morning and afternoon.,rain,0.9,0.9,4.06,5.1
+2015-04-04,3.38,14.02,Foggy overnight.,partly-cloudy-day,0.37,0.82,4.17,6.22
+2015-04-05,5.49,16.39,Foggy in the morning and overnight.,partly-cloudy-day,0.51,0.86,2.25,4.47
+2015-04-06,4.38,15.28,Foggy in the morning and afternoon.,partly-cloudy-day,0.72,0.85,3.23,3.06
+2015-04-07,4.7,12.1,Foggy overnight.,partly-cloudy-day,0.79,0.8,6.03,6.22
+2015-04-08,0.56,15.86,Foggy in the morning and overnight.,partly-cloudy-day,0.34,0.77,2.21,4.65
+2015-04-09,3.82,16.51,Foggy in the morning.,clear-day,0.1,0.71,4.74,4.64
+2015-04-10,3.14,17.02,Foggy in the morning.,clear-day,0.15,0.67,5.19,4.85
+2015-04-11,3.38,9.77,Possible light rain in the morning and afternoon.,rain,0.61,0.76,10.95,6.02
+2015-04-12,3.75,10.23,Light rain in the morning and afternoon.,rain,0.65,0.75,8.89,6.12
+2015-04-13,2.31,11.3,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.83,6.71,6.01
+2015-04-14,9.5,12.07,Possible drizzle overnight.,cloudy,0.89,0.88,11.13,4.97
+2015-04-15,4.23,11.56,Light rain in the morning.,rain,0.57,0.74,9.26,5.61
+2015-04-16,-0.09,14.08,Clear throughout the day.,clear-day,0.04,0.69,2.72,6.22
+2015-04-17,1.77,14.49,Partly cloudy throughout the day.,clear-day,0.29,0.7,5.37,6.22
+2015-04-18,2.01,15.51,Partly cloudy throughout the day.,clear-day,0.24,0.7,4.35,6.15
+2015-04-19,2.11,12.07,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.74,5.06,6.22
+2015-04-20,3.64,14.15,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.71,5.06,6.22
+2015-04-21,1.61,17.06,Clear throughout the day.,clear-day,0.04,0.73,3.47,6.22
+2015-04-22,3.88,20.05,Clear throughout the day.,clear-day,0.03,0.71,2.27,6.17
+2015-04-23,4.66,18.5,Foggy in the morning and overnight.,clear-day,0.06,0.73,3.86,5.01
+2015-04-24,5.89,13.56,Foggy in the morning.,partly-cloudy-day,0.83,0.87,4.39,3.97
+2015-04-25,4.02,11.82,Clear throughout the day.,partly-cloudy-day,0.42,0.67,9.33,6.16
+2015-04-26,0.29,9.43,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.67,8.14,6.22
+2015-04-27,-1.24,8.37,Possible light rain in the afternoon and evening.,rain,0.43,0.72,6.94,6.1
+2015-04-28,2.37,8.36,Possible light rain in the evening and overnight.,rain,0.64,0.8,9.76,5.99
+2015-04-29,3.48,8.58,Possible light rain until evening.,rain,0.78,0.86,8.9,6.08
+2015-04-30,2.94,11.94,Clear throughout the day.,clear-day,0.25,0.66,4.99,6.22
+2015-05-01,-1.32,11.12,Clear throughout the day.,clear-day,0.21,0.66,4.3,6.22
+2015-05-02,0.71,9.38,Possible drizzle overnight.,partly-cloudy-day,0.71,0.74,8.67,6.22
+2015-05-03,4.58,9.83,"Light rain until afternoon, starting again overnight.",rain,0.86,0.89,9.27,5.8
+2015-05-04,8.25,14.67,Possible drizzle in the morning.,rain,0.59,0.72,8.84,5.74
+2015-05-05,6.8,10.25,"Light rain until afternoon, starting again overnight.",rain,0.66,0.84,9.93,5.72
+2015-05-06,6.27,12.05,Drizzle in the morning.,rain,0.62,0.8,8.12,6.15
+2015-05-07,2.56,11.07,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.66,7.72,6.22
+2015-05-08,1.24,12.92,Possible drizzle in the evening and overnight.,rain,0.34,0.71,3.9,6.22
+2015-05-09,6.58,16.01,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.7,6.14,6.22
+2015-05-10,8.5,14.08,Light rain in the evening and overnight.,rain,0.77,0.86,8.18,5.35
+2015-05-11,10.08,15.81,Partly cloudy throughout the day.,rain,0.44,0.74,13.38,6.16
+2015-05-12,7.79,12.03,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.77,13.67,6.12
+2015-05-13,7.6,13.96,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.7,5.29,6.22
+2015-05-14,4.56,13.45,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.67,7.54,6.22
+2015-05-15,1.87,13.08,Possible drizzle in the evening.,rain,0.73,0.81,6.04,5.27
+2015-05-16,6.71,11.68,Possible drizzle in the evening.,rain,0.65,0.76,12.22,6.22
+2015-05-17,6.69,10.82,"Possible light rain until morning, starting again in the evening.",rain,0.79,0.84,10.61,5.85
+2015-05-18,5.92,11.35,"Light rain until afternoon, starting again overnight.",rain,0.75,0.83,6.52,6.03
+2015-05-19,5.01,12.87,Partly cloudy throughout the day.,rain,0.44,0.75,8.87,6.22
+2015-05-20,6.72,14.4,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.71,8.74,6.22
+2015-05-21,8.52,12.9,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.78,8.59,6.22
+2015-05-22,9.04,15.45,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.81,9.6,5.87
+2015-05-23,3.86,16.49,Possible drizzle overnight.,clear-day,0.28,0.73,4.82,6.18
+2015-05-24,8.03,12.05,Mostly cloudy throughout the day.,rain,0.75,0.8,9.95,6.1
+2015-05-25,7.71,15.44,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.73,8.68,6.19
+2015-05-26,8.0,13.45,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.74,9.04,6.22
+2015-05-27,7.63,10.99,Possible light rain starting in the afternoon.,rain,0.82,0.82,6.99,6.08
+2015-05-28,6.05,11.68,Possible drizzle in the morning.,rain,0.65,0.79,10.71,6.17
+2015-05-29,5.61,12.34,Partly cloudy throughout the day.,partly-cloudy-day,0.54,0.75,7.87,6.21
+2015-05-30,4.67,14.2,Possible light rain overnight.,rain,0.39,0.7,6.93,6.21
+2015-05-31,5.48,11.18,Possible light rain in the morning.,rain,0.71,0.79,10.15,5.28
+2015-06-01,4.24,12.46,Possible light rain in the evening and overnight.,rain,0.67,0.8,10.89,5.8
+2015-06-02,6.33,12.16,Possible light rain in the morning.,rain,0.79,0.8,13.9,5.75
+2015-06-03,7.01,14.71,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.73,8.06,6.22
+2015-06-04,6.52,15.76,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.79,2.7,6.2
+2015-06-05,10.31,15.93,Possible drizzle in the morning.,rain,0.51,0.78,7.49,6.1
+2015-06-06,8.71,10.99,Light rain in the morning and afternoon.,rain,0.63,0.81,16.03,5.82
+2015-06-07,7.72,14.7,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.71,10.19,6.22
+2015-06-08,4.2,15.49,Clear throughout the day.,clear-day,0.26,0.7,4.42,6.22
+2015-06-09,3.97,17.89,Clear throughout the day.,clear-day,0.29,0.71,3.31,6.22
+2015-06-10,5.49,21.22,Clear throughout the day.,clear-day,0.19,0.68,3.56,6.12
+2015-06-11,6.14,22.61,Clear throughout the day.,clear-day,0.19,0.66,2.82,6.22
+2015-06-12,7.2,21.96,Clear throughout the day.,clear-day,0.18,0.68,3.07,6.22
+2015-06-13,9.62,14.28,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.81,5.8,6.19
+2015-06-14,7.62,14.78,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.77,4.61,5.86
+2015-06-15,4.71,16.27,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.76,3.23,6.22
+2015-06-16,10.79,17.66,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.8,5.36,6.13
+2015-06-17,10.0,15.31,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.82,11.6,5.94
+2015-06-18,9.37,11.62,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.82,9.5,5.82
+2015-06-19,9.36,13.71,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.83,6.24,6.21
+2015-06-20,10.54,17.78,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.84,5.04,5.38
+2015-06-21,9.5,14.19,Possible drizzle in the morning.,rain,0.74,0.82,7.73,6.17
+2015-06-22,8.82,16.68,Partly cloudy throughout the day.,partly-cloudy-day,0.54,0.76,5.75,6.19
+2015-06-23,5.59,18.52,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.74,3.64,6.22
+2015-06-24,7.75,17.22,Light rain overnight.,partly-cloudy-day,0.58,0.82,1.81,6.22
+2015-06-25,11.82,16.46,Possible light rain until evening.,rain,0.68,0.9,2.52,5.16
+2015-06-26,11.76,16.2,Possible drizzle in the afternoon.,rain,0.77,0.86,5.37,5.75
+2015-06-27,10.71,19.64,Partly cloudy throughout the day.,partly-cloudy-day,0.59,0.78,5.43,6.22
+2015-06-28,12.97,17.92,Light rain in the morning.,rain,0.69,0.82,7.96,5.76
+2015-06-29,12.04,18.1,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.82,5.34,5.91
+2015-06-30,13.87,23.01,Mostly cloudy throughout the day.,partly-cloudy-day,0.68,0.8,5.3,6.22
+2015-07-01,16.22,26.66,Possible light rain in the evening and overnight.,rain,0.19,0.74,3.97,6.22
+2015-07-02,13.0,21.8,Possible drizzle in the evening.,rain,0.55,0.84,4.98,5.57
+2015-07-03,10.28,23.06,Possible drizzle overnight.,partly-cloudy-day,0.33,0.74,4.19,5.16
+2015-07-04,12.48,19.36,Rain in the morning.,rain,0.57,0.84,8.44,6.17
+2015-07-05,10.12,18.22,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.81,3.64,6.17
+2015-07-06,10.72,18.77,Possible light rain in the evening and overnight.,rain,0.69,0.84,5.0,5.93
+2015-07-07,13.52,18.35,Possible light rain in the morning and afternoon.,rain,0.75,0.86,7.04,5.77
+2015-07-08,10.58,16.86,Light rain in the morning.,rain,0.59,0.77,6.86,5.81
+2015-07-09,6.28,16.23,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.71,4.72,6.01
+2015-07-10,10.72,20.09,Possible drizzle in the morning and overnight.,rain,0.67,0.83,4.97,5.36
+2015-07-11,13.5,17.85,Possible drizzle in the evening.,rain,0.72,0.84,7.59,5.77
+2015-07-12,12.36,15.98,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.8,7.94,5.9
+2015-07-13,11.27,16.83,Light rain until evening.,rain,0.7,0.87,3.3,5.7
+2015-07-14,8.56,18.17,Partly cloudy throughout the day.,partly-cloudy-day,0.39,0.76,4.66,6.22
+2015-07-15,7.97,18.52,Clear throughout the day.,clear-day,0.23,0.67,5.96,6.22
+2015-07-16,7.96,18.46,Possible light rain overnight.,partly-cloudy-day,0.57,0.76,5.53,6.22
+2015-07-17,11.22,16.02,"Rain until morning, starting again in the evening.",rain,0.75,0.84,9.54,5.54
+2015-07-18,11.06,16.86,Light rain in the evening and overnight.,rain,0.77,0.81,12.63,5.64
+2015-07-19,11.01,17.39,Possible light rain in the morning.,rain,0.69,0.81,5.72,6.09
+2015-07-20,8.91,15.72,Possible drizzle in the afternoon and evening.,rain,0.71,0.88,4.38,5.89
+2015-07-21,11.76,15.42,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.82,7.28,6.18
+2015-07-22,9.07,15.97,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.78,5.6,6.22
+2015-07-23,10.03,15.41,Possible drizzle in the afternoon.,rain,0.55,0.78,8.66,6.22
+2015-07-24,7.43,17.08,Possible light rain in the morning and afternoon.,rain,0.45,0.78,3.79,6.22
+2015-07-25,8.27,16.84,Possible light rain in the afternoon.,rain,0.28,0.77,4.48,6.22
+2015-07-26,6.84,15.9,Possible drizzle in the evening.,rain,0.44,0.81,5.31,5.74
+2015-07-27,9.28,12.07,"Light rain until morning, starting again in the evening.",rain,0.73,0.87,7.28,6.02
+2015-07-28,9.16,13.08,Possible light rain until evening.,rain,0.69,0.91,2.21,5.72
+2015-07-29,7.83,16.72,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.8,5.09,6.19
+2015-07-30,7.99,15.99,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.7,5.64,6.22
+2015-07-31,10.78,15.21,Possible light rain throughout the day.,rain,0.69,0.83,7.36,6.1
+2015-08-01,8.11,15.28,Foggy in the morning.,partly-cloudy-day,0.48,0.81,7.22,5.98
+2015-08-02,7.55,16.74,Mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.86,5.56,6.22
+2015-08-03,13.71,18.47,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.78,10.38,6.19
+2015-08-04,12.58,16.07,Possible drizzle in the afternoon and evening.,rain,0.71,0.81,11.88,6.04
+2015-08-05,11.54,16.37,Possible light rain in the evening and overnight.,rain,0.74,0.85,6.34,5.97
+2015-08-06,11.16,17.67,Possible drizzle in the morning.,rain,0.62,0.8,6.6,5.73
+2015-08-07,6.77,19.05,Foggy in the morning.,partly-cloudy-day,0.33,0.73,3.66,5.8
+2015-08-08,7.68,18.39,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.77,6.75,6.2
+2015-08-09,13.34,18.23,Mostly cloudy throughout the day.,partly-cloudy-day,0.7,0.84,8.73,6.2
+2015-08-10,11.83,18.18,Possible light rain in the morning and afternoon.,rain,0.66,0.86,6.78,6.14
+2015-08-11,10.68,16.38,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.81,5.56,6.22
+2015-08-12,9.77,18.16,Foggy overnight.,partly-cloudy-day,0.69,0.75,2.87,6.22
+2015-08-13,6.04,22.72,Foggy in the morning.,partly-cloudy-day,0.36,0.76,2.39,5.68
+2015-08-14,11.79,16.6,Possible light rain in the morning.,rain,0.66,0.86,3.7,6.19
+2015-08-15,8.99,16.24,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.74,7.31,6.22
+2015-08-16,8.99,18.84,Clear throughout the day.,clear-day,0.25,0.72,3.54,6.22
+2015-08-17,8.11,21.29,Clear throughout the day.,clear-day,0.18,0.71,2.17,6.22
+2015-08-18,7.39,21.06,Clear throughout the day.,clear-day,0.15,0.75,3.39,5.96
+2015-08-19,10.38,19.06,Light rain in the afternoon and evening.,rain,0.59,0.85,4.4,5.64
+2015-08-20,11.9,18.4,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.85,5.5,6.19
+2015-08-21,15.05,20.7,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.8,7.88,6.22
+2015-08-22,13.7,18.1,Possible light rain overnight.,partly-cloudy-day,0.47,0.81,3.99,6.22
+2015-08-23,14.75,24.89,Possible light rain in the morning and overnight.,rain,0.42,0.74,10.25,5.71
+2015-08-24,13.23,18.22,Mostly cloudy throughout the day.,rain,0.64,0.81,3.86,6.11
+2015-08-25,9.66,17.72,Clear throughout the day.,partly-cloudy-day,0.42,0.73,5.01,6.22
+2015-08-26,11.43,16.58,Possible light rain in the morning and afternoon.,rain,0.61,0.85,5.38,5.74
+2015-08-27,10.88,16.07,Possible drizzle in the morning and afternoon.,rain,0.7,0.85,9.17,6.0
+2015-08-28,11.03,16.76,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.82,8.33,6.22
+2015-08-29,12.27,17.97,Foggy overnight.,partly-cloudy-day,0.54,0.81,8.94,6.22
+2015-08-30,10.69,17.38,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.81,4.36,6.04
+2015-08-31,7.91,17.41,Foggy overnight.,partly-cloudy-day,0.41,0.84,2.39,6.06
+2015-09-01,9.39,17.37,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.81,3.77,6.11
+2015-09-02,10.31,15.22,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.78,3.65,6.21
+2015-09-03,7.92,17.27,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.72,5.74,6.22
+2015-09-04,6.68,14.96,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.83,4.52,6.21
+2015-09-05,4.92,16.4,Clear throughout the day.,partly-cloudy-day,0.33,0.69,4.22,6.22
+2015-09-06,5.64,17.62,Foggy overnight.,clear-day,0.27,0.78,6.11,6.22
+2015-09-07,5.5,18.67,Foggy in the morning.,partly-cloudy-day,0.38,0.85,1.94,4.16
+2015-09-08,10.45,17.12,Foggy in the morning.,partly-cloudy-day,0.81,0.88,2.95,4.83
+2015-09-09,10.31,15.0,Mostly cloudy throughout the day.,partly-cloudy-day,0.82,0.81,3.97,5.49
+2015-09-10,10.76,20.15,Clear throughout the day.,partly-cloudy-day,0.46,0.72,6.57,6.22
+2015-09-11,9.8,19.59,Partly cloudy throughout the day.,clear-day,0.3,0.72,8.56,6.22
+2015-09-12,10.6,14.41,Possible drizzle in the morning and afternoon.,rain,0.57,0.82,8.12,6.15
+2015-09-13,8.03,16.0,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.84,3.55,6.22
+2015-09-14,8.63,14.75,Foggy overnight.,partly-cloudy-day,0.49,0.86,2.82,5.59
+2015-09-15,6.82,14.97,Foggy in the morning and overnight.,partly-cloudy-day,0.4,0.85,3.85,5.3
+2015-09-16,4.48,17.22,Foggy in the morning and overnight.,partly-cloudy-day,0.34,0.79,2.11,5.26
+2015-09-17,8.14,17.0,Foggy overnight.,partly-cloudy-day,0.39,0.82,3.11,5.79
+2015-09-18,9.05,18.79,Foggy in the morning and overnight.,partly-cloudy-day,0.55,0.81,1.79,5.33
+2015-09-19,6.19,14.93,Foggy in the morning.,partly-cloudy-day,0.66,0.85,2.54,4.71
+2015-09-20,11.36,15.9,Possible light rain in the evening and overnight.,rain,0.81,0.85,4.08,6.22
+2015-09-21,8.59,15.48,Possible drizzle in the morning.,rain,0.65,0.85,4.92,5.83
+2015-09-22,5.47,16.05,Partly cloudy throughout the day.,clear-day,0.25,0.81,5.38,6.21
+2015-09-23,6.94,15.18,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.85,5.04,5.75
+2015-09-24,8.33,13.21,Possible light rain in the afternoon and evening.,rain,0.67,0.83,8.6,6.11
+2015-09-25,9.05,14.97,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.82,6.77,6.05
+2015-09-26,8.85,15.33,Foggy overnight.,partly-cloudy-day,0.69,0.86,2.43,6.17
+2015-09-27,5.6,17.41,Foggy in the evening and overnight.,clear-day,0.26,0.81,2.34,4.78
+2015-09-28,5.08,17.47,Clear throughout the day.,clear-day,0.24,0.8,2.88,5.4
+2015-09-29,7.35,19.79,Foggy in the morning and overnight.,clear-day,0.13,0.81,2.26,5.21
+2015-09-30,4.92,19.46,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.54,0.85,1.16,3.39
+2015-10-01,5.08,18.19,Foggy throughout the day.,cloudy,0.88,0.83,1.8,3.05
+2015-10-02,6.04,14.52,Foggy in the morning and overnight.,partly-cloudy-day,0.74,0.84,3.38,4.02
+2015-10-03,2.9,13.41,Foggy in the morning.,cloudy,0.88,0.82,1.72,4.36
+2015-10-04,7.58,12.43,Overcast throughout the day.,cloudy,0.91,0.78,3.36,6.22
+2015-10-05,7.17,15.45,Possible drizzle in the afternoon.,rain,0.5,0.86,6.94,4.57
+2015-10-06,11.55,17.26,Possible light rain in the afternoon.,rain,0.7,0.9,3.1,5.29
+2015-10-07,6.77,13.88,Clear throughout the day.,partly-cloudy-day,0.33,0.82,5.9,6.09
+2015-10-08,4.6,15.32,Foggy in the morning.,partly-cloudy-day,0.46,0.84,2.74,5.44
+2015-10-09,7.55,15.03,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.87,2.95,6.22
+2015-10-10,9.92,15.12,Clear throughout the day.,clear-day,0.2,0.88,1.77,5.42
+2015-10-11,7.55,13.98,Possible light rain overnight.,partly-cloudy-day,0.47,0.86,1.95,5.1
+2015-10-12,5.0,13.14,Possible light rain in the morning.,rain,0.33,0.8,4.0,6.04
+2015-10-13,4.0,13.88,Clear throughout the day.,partly-cloudy-day,0.48,0.79,1.78,6.21
+2015-10-14,3.75,13.35,Foggy in the morning and overnight.,partly-cloudy-day,0.53,0.82,1.31,5.63
+2015-10-15,1.41,12.65,Foggy in the morning.,partly-cloudy-day,0.53,0.85,2.12,4.19
+2015-10-16,3.16,13.45,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.45,0.87,1.18,3.52
+2015-10-17,4.06,11.5,Foggy in the morning and afternoon.,partly-cloudy-day,0.83,0.88,1.27,3.89
+2015-10-18,4.4,13.67,Foggy in the morning and overnight.,partly-cloudy-day,0.72,0.82,2.48,5.43
+2015-10-19,1.92,12.18,Foggy in the morning.,partly-cloudy-day,0.63,0.85,1.58,4.27
+2015-10-20,8.17,13.16,Possible drizzle in the evening and overnight.,rain,0.65,0.83,5.53,6.14
+2015-10-21,10.63,14.97,Overcast throughout the day.,partly-cloudy-day,0.86,0.92,9.75,4.68
+2015-10-22,10.12,13.03,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.75,12.92,5.98
+2015-10-23,9.21,13.4,Possible drizzle in the evening and overnight.,rain,0.87,0.77,8.04,5.69
+2015-10-24,6.71,13.23,Light rain in the morning.,rain,0.58,0.85,10.32,5.39
+2015-10-25,6.21,11.71,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.83,7.12,6.12
+2015-10-26,7.1,12.15,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.78,5.85,6.22
+2015-10-27,7.93,14.88,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.86,6.25,4.83
+2015-10-28,8.89,12.91,Possible light rain until evening.,rain,0.81,0.93,4.19,3.67
+2015-10-29,6.19,12.97,Possible drizzle in the morning.,rain,0.53,0.85,6.47,6.19
+2015-10-30,6.24,14.3,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.86,3.94,5.98
+2015-10-31,8.95,16.06,Foggy overnight.,partly-cloudy-day,0.66,0.87,6.58,5.82
+2015-11-01,5.31,15.42,Foggy in the morning and overnight.,partly-cloudy-day,0.48,0.88,2.94,4.56
+2015-11-02,6.59,12.1,Foggy overnight.,cloudy,0.88,0.93,1.83,3.26
+2015-11-03,3.98,11.38,Foggy throughout the day.,fog,0.87,0.92,1.5,1.39
+2015-11-04,6.51,10.54,Light rain in the morning.,rain,0.92,0.95,1.96,2.56
+2015-11-05,10.03,11.88,Light rain in the afternoon and evening.,rain,0.83,0.94,2.41,2.71
+2015-11-06,8.31,14.13,Possible drizzle in the afternoon and evening.,rain,0.74,0.91,4.36,4.16
+2015-11-07,8.24,10.55,Light rain in the morning and afternoon.,rain,0.49,0.92,3.23,5.64
+2015-11-08,7.64,13.27,Light rain throughout the day.,rain,0.6,0.86,9.64,5.97
+2015-11-09,7.83,15.29,Light rain throughout the day.,rain,0.79,0.89,12.1,4.23
+2015-11-10,10.9,15.41,Possible light rain in the morning.,rain,0.81,0.9,9.13,4.83
+2015-11-11,9.16,12.54,Possible drizzle in the afternoon and evening.,rain,0.69,0.87,6.25,6.19
+2015-11-12,7.39,13.05,Rain starting in the afternoon.,rain,0.59,0.81,10.66,6.11
+2015-11-13,3.93,8.42,Light rain throughout the day.,rain,0.7,0.83,11.57,5.74
+2015-11-14,5.34,8.21,Possible light rain in the evening and overnight.,rain,0.65,0.86,7.48,5.98
+2015-11-15,6.36,14.63,Light rain throughout the day.,rain,0.89,0.94,7.03,3.42
+2015-11-16,5.36,13.95,Mostly cloudy throughout the day.,rain,0.69,0.81,13.01,6.14
+2015-11-17,3.76,7.65,Light rain in the afternoon and evening.,rain,0.72,0.86,7.19,5.89
+2015-11-18,6.17,11.06,Light rain until evening.,rain,0.75,0.86,11.39,5.92
+2015-11-19,6.68,9.47,Possible light rain in the afternoon and evening.,rain,0.69,0.83,10.78,6.1
+2015-11-20,0.95,7.28,Possible drizzle in the morning.,rain,0.48,0.85,6.74,6.1
+2015-11-21,-0.6,3.38,Clear throughout the day.,clear-day,0.31,0.76,3.88,6.22
+2015-11-22,-0.31,6.76,Clear throughout the day.,clear-day,0.09,0.83,2.78,6.22
+2015-11-23,-0.11,9.12,Drizzle starting in the afternoon.,rain,0.76,0.88,6.8,5.64
+2015-11-24,5.11,8.55,Drizzle in the morning and afternoon.,rain,0.63,0.84,6.99,6.05
+2015-11-25,4.87,9.26,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.84,5.2,6.2
+2015-11-26,7.84,12.11,Possible drizzle in the evening.,rain,0.93,0.92,6.6,5.25
+2015-11-27,2.9,11.7,Light rain in the morning and afternoon.,rain,0.79,0.89,10.23,4.86
+2015-11-28,2.51,6.89,Light rain throughout the day.,rain,0.71,0.86,11.14,5.42
+2015-11-29,2.66,8.92,Light rain in the morning and afternoon.,rain,0.72,0.86,11.71,5.79
+2015-11-30,1.02,5.1,Light rain in the morning.,rain,0.58,0.89,4.54,5.8
+2015-12-01,0.59,12.62,Light rain in the morning and afternoon.,rain,0.76,0.9,7.04,5.17
+2015-12-02,3.69,12.03,Possible light rain in the morning.,rain,0.56,0.84,9.53,6.07
+2015-12-03,2.76,5.68,Light rain in the afternoon and evening.,rain,0.58,0.92,2.61,5.95
+2015-12-04,3.68,11.11,"Light rain until morning, starting again in the evening.",rain,0.76,0.86,14.79,5.19
+2015-12-05,9.79,12.92,Light rain throughout the day.,rain,0.93,0.9,18.34,3.49
+2015-12-06,4.33,9.31,Possible light rain in the morning.,rain,0.52,0.85,6.3,5.9
+2015-12-07,4.39,13.26,"Light rain until morning, starting again in the evening.",rain,0.78,0.88,7.45,5.64
+2015-12-08,4.88,12.81,Drizzle in the afternoon and evening.,rain,0.52,0.8,11.27,6.22
+2015-12-09,4.83,11.25,Light rain throughout the day.,rain,0.72,0.85,14.21,5.2
+2015-12-10,3.29,9.15,Possible drizzle until evening.,rain,0.57,0.79,11.71,5.87
+2015-12-11,2.66,6.63,Light rain until evening.,rain,0.52,0.83,10.75,5.87
+2015-12-12,-1.18,5.17,Foggy overnight.,clear-day,0.21,0.9,2.32,6.19
+2015-12-13,-2.66,2.06,Possible drizzle overnight.,rain,0.77,0.94,1.15,1.56
+2015-12-14,1.66,5.48,Foggy in the morning.,cloudy,0.93,0.95,3.59,3.23
+2015-12-15,5.09,9.61,Mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.9,7.16,6.05
+2015-12-16,9.07,12.39,Foggy in the morning.,cloudy,0.9,0.93,4.67,4.92
+2015-12-17,10.82,13.5,Drizzle in the morning and afternoon.,rain,0.81,0.88,9.42,5.9
+2015-12-18,10.11,12.97,Light rain starting in the afternoon.,rain,0.82,0.89,12.66,5.39
+2015-12-19,10.61,14.22,"Light rain until morning, starting again in the evening.",rain,0.75,0.87,11.83,5.72
+2015-12-20,8.33,11.12,Light rain in the morning and afternoon.,rain,0.71,0.85,10.52,6.12
+2015-12-21,5.99,8.96,Possible light rain throughout the day.,rain,0.69,0.83,10.62,5.84
+2015-12-22,7.13,13.09,Light rain in the morning and overnight.,rain,0.7,0.84,12.1,5.69
+2015-12-23,4.88,11.33,Possible light rain overnight.,rain,0.61,0.8,13.82,6.12
+2015-12-24,4.04,11.39,Light rain in the morning and overnight.,rain,0.8,0.84,12.0,5.53
+2015-12-25,3.2,5.57,Possible light rain overnight.,rain,0.64,0.85,7.02,6.22
+2015-12-26,3.02,6.46,Light rain until evening.,rain,0.96,0.94,7.52,4.52
+2015-12-27,4.38,7.73,Possible drizzle in the evening and overnight.,rain,0.45,0.88,5.16,6.13
+2015-12-28,8.06,11.97,Clear throughout the day.,partly-cloudy-day,0.34,0.78,8.08,6.19
+2015-12-29,7.63,12.05,Possible light rain overnight.,partly-cloudy-day,0.63,0.81,10.89,6.12
+2015-12-30,3.48,12.87,Light rain until evening.,rain,0.71,0.87,13.07,5.01
+2015-12-31,2.04,6.33,Drizzle starting in the afternoon.,rain,0.55,0.89,4.77,5.55
+2016-01-01,1.54,6.02,Clear throughout the day.,clear-day,0.28,0.8,7.2,6.22
+2016-01-02,5.66,8.89,Possible light rain in the evening.,rain,0.85,0.87,6.52,6.05
+2016-01-03,6.44,8.62,Overcast throughout the day.,partly-cloudy-day,0.85,0.88,8.03,6.12
+2016-01-04,6.36,8.09,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.88,7.74,6.22
+2016-01-05,5.29,6.96,Possible drizzle overnight.,cloudy,0.9,0.88,10.48,6.08
+2016-01-06,5.46,7.49,Overcast throughout the day.,rain,0.9,0.87,7.02,6.22
+2016-01-07,3.46,7.05,Light rain in the morning and afternoon.,rain,0.65,0.87,7.85,5.82
+2016-01-08,-0.21,4.15,Foggy overnight.,partly-cloudy-day,0.47,0.91,2.01,4.96
+2016-01-09,-0.66,4.31,Possible light rain starting in the afternoon.,rain,0.87,0.94,4.55,4.4
+2016-01-10,2.14,5.43,Light rain until evening.,rain,0.89,0.92,6.47,5.22
+2016-01-11,3.74,5.49,Possible drizzle in the afternoon and evening.,rain,0.8,0.89,4.81,5.94
+2016-01-12,2.43,5.35,Possible light rain in the morning and afternoon.,rain,0.46,0.88,5.94,6.22
+2016-01-13,0.16,3.21,Possible drizzle in the afternoon.,rain,0.43,0.9,3.16,6.0
+2016-01-14,-0.89,4.03,Clear throughout the day.,clear-day,0.27,0.81,4.87,6.22
+2016-01-15,-1.32,5.13,Clear throughout the day.,clear-day,0.14,0.82,4.08,6.19
+2016-01-16,-3.52,0.98,Foggy until evening.,partly-cloudy-day,0.46,0.91,2.97,4.29
+2016-01-17,-0.4,2.41,Drizzle in the afternoon.,rain,0.83,0.88,2.42,5.98
+2016-01-18,0.76,3.16,Light rain in the morning and afternoon.,rain,0.92,0.94,1.62,2.55
+2016-01-19,1.06,3.8,Foggy in the morning and overnight.,partly-cloudy-day,0.87,0.95,1.07,3.43
+2016-01-20,1.38,3.59,Foggy in the morning.,partly-cloudy-day,0.77,0.94,2.03,2.77
+2016-01-21,0.69,7.29,Light rain in the morning and afternoon.,rain,0.63,0.89,5.29,4.3
+2016-01-22,7.12,11.53,Light rain in the morning and afternoon.,rain,0.72,0.86,8.19,5.89
+2016-01-23,7.08,10.15,Possible drizzle in the evening.,rain,0.53,0.84,7.77,5.68
+2016-01-24,8.4,13.56,Light rain in the morning.,rain,0.9,0.91,8.07,6.04
+2016-01-25,5.81,13.16,"Drizzle until morning, starting again in the evening.",rain,0.69,0.85,11.12,6.05
+2016-01-26,6.63,12.37,"Light rain until afternoon, starting again overnight.",rain,0.83,0.89,14.41,4.77
+2016-01-27,2.9,7.2,Light rain until evening.,rain,0.67,0.89,5.88,5.72
+2016-01-28,3.02,8.87,Light rain starting in the afternoon.,rain,0.78,0.85,12.29,5.51
+2016-01-29,3.59,10.45,Possible light rain in the morning and overnight.,rain,0.75,0.79,17.4,4.7
+2016-01-30,1.22,4.53,Drizzle until evening.,rain,0.58,0.78,13.98,5.86
+2016-01-31,2.23,7.0,Light rain starting in the afternoon.,rain,0.76,0.89,4.98,5.63
+2016-02-01,5.56,11.17,"Light rain until afternoon, starting again overnight.",rain,0.81,0.8,19.82,5.05
+2016-02-02,2.42,7.28,Light rain in the morning.,rain,0.66,0.75,16.65,5.94
+2016-02-03,2.12,6.4,Light rain overnight.,rain,0.54,0.83,5.83,6.08
+2016-02-04,3.36,9.8,Possible drizzle in the afternoon.,rain,0.85,0.88,6.25,5.61
+2016-02-05,3.26,9.63,Light rain in the afternoon and evening.,rain,0.85,0.87,9.74,5.93
+2016-02-06,3.59,7.07,Possible light rain in the evening.,rain,0.67,0.85,7.11,6.17
+2016-02-07,3.48,6.88,Light rain throughout the day.,rain,0.81,0.84,13.49,5.49
+2016-02-08,4.22,7.65,"Possible light rain until morning, starting again in the evening.",rain,0.78,0.88,5.57,5.7
+2016-02-09,3.78,6.83,"Light rain until morning, starting again in the evening.",rain,0.78,0.88,6.92,5.61
+2016-02-10,1.14,6.54,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.8,4.81,6.22
+2016-02-11,-0.46,6.76,Foggy overnight.,partly-cloudy-day,0.35,0.82,2.46,6.22
+2016-02-12,-0.81,5.63,Clear throughout the day.,clear-day,0.22,0.85,3.6,5.49
+2016-02-13,0.74,3.42,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.87,6.52,6.06
+2016-02-14,-2.48,4.5,Clear throughout the day.,clear-day,0.24,0.76,3.9,6.22
+2016-02-15,-1.43,5.93,Clear throughout the day.,clear-day,0.13,0.64,2.26,6.22
+2016-02-16,-0.07,8.05,Light rain starting in the afternoon.,rain,0.79,0.81,10.68,5.35
+2016-02-17,0.01,5.68,Light rain until evening.,rain,0.59,0.91,2.05,5.19
+2016-02-18,-0.49,5.25,Light rain in the evening.,rain,0.59,0.89,3.73,5.08
+2016-02-19,2.04,8.4,Light rain throughout the day.,rain,0.8,0.89,8.81,5.14
+2016-02-20,4.07,6.09,Light rain throughout the day.,rain,0.63,0.85,12.58,5.64
+2016-02-21,2.61,6.88,Drizzle in the morning.,rain,0.8,0.87,9.25,5.63
+2016-02-22,1.8,8.71,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.8,7.27,6.12
+2016-02-23,-1.58,6.48,Clear throughout the day.,clear-day,0.16,0.76,3.01,6.22
+2016-02-24,-1.02,5.01,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.8,1.57,6.2
+2016-02-25,-2.42,4.94,Partly cloudy throughout the day.,clear-day,0.31,0.82,1.83,6.22
+2016-02-26,0.86,5.58,Mostly cloudy throughout the day.,partly-cloudy-day,0.44,0.79,2.0,6.22
+2016-02-27,-1.05,6.42,Partly cloudy throughout the day.,clear-day,0.18,0.77,1.67,5.85
+2016-02-28,-3.47,8.06,Clear throughout the day.,clear-day,0.03,0.75,1.02,5.74
+2016-02-29,0.13,6.47,Possible light rain overnight.,partly-cloudy-day,0.75,0.83,5.86,6.13
+2016-03-01,2.67,9.67,Possible drizzle in the morning.,rain,0.72,0.86,10.08,5.36
+2016-03-02,1.41,6.94,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.81,8.1,6.07
+2016-03-03,2.02,8.01,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.81,3.64,6.2
+2016-03-04,2.62,7.47,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.79,8.56,6.22
+2016-03-05,1.06,7.88,Partly cloudy throughout the day.,clear-day,0.29,0.66,3.91,6.22
+2016-03-06,-2.72,5.75,Partly cloudy throughout the day.,clear-day,0.31,0.7,2.58,6.21
+2016-03-07,-0.53,7.66,Clear throughout the day.,clear-day,0.29,0.67,2.23,6.22
+2016-03-08,1.62,8.5,Possible light rain overnight.,partly-cloudy-day,0.71,0.84,5.86,5.86
+2016-03-09,1.07,9.24,Foggy overnight.,rain,0.34,0.79,4.38,6.2
+2016-03-10,-1.72,9.4,Foggy in the morning.,clear-day,0.2,0.77,1.45,5.79
+2016-03-11,2.86,8.4,Possible drizzle in the evening.,rain,0.79,0.87,3.66,6.22
+2016-03-12,7.05,11.96,Mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.86,5.47,6.2
+2016-03-13,7.2,12.81,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.75,3.17,6.22
+2016-03-14,3.01,15.08,Clear throughout the day.,clear-day,0.15,0.67,2.98,6.15
+2016-03-15,2.64,9.98,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.76,4.8,6.22
+2016-03-16,4.61,9.28,Overcast throughout the day.,cloudy,0.92,0.86,5.21,6.12
+2016-03-17,3.31,9.74,Foggy in the evening and overnight.,partly-cloudy-day,0.73,0.88,1.55,3.91
+2016-03-18,3.58,7.2,Overcast throughout the day.,cloudy,0.94,0.9,3.17,4.36
+2016-03-19,3.97,9.7,Overcast throughout the day.,partly-cloudy-day,0.81,0.79,2.06,5.21
+2016-03-20,3.07,12.45,Foggy in the morning.,partly-cloudy-day,0.54,0.77,2.7,5.76
+2016-03-21,5.94,10.87,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.78,5.14,6.21
+2016-03-22,6.55,10.47,Overcast throughout the day.,cloudy,0.93,0.8,4.4,6.22
+2016-03-23,5.67,9.45,Overcast throughout the day.,partly-cloudy-day,0.83,0.77,4.07,6.12
+2016-03-24,5.54,9.44,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.84,6.84,5.74
+2016-03-25,4.14,11.56,Possible light rain overnight.,partly-cloudy-day,0.42,0.76,8.54,6.22
+2016-03-26,6.18,10.37,Light rain until evening.,rain,0.81,0.85,11.8,5.27
+2016-03-27,4.54,9.8,Light rain in the evening and overnight.,rain,0.75,0.76,9.68,6.02
+2016-03-28,2.87,10.1,Mostly cloudy throughout the day.,rain,0.66,0.81,4.77,6.09
+2016-03-29,3.08,8.51,Possible drizzle in the afternoon and evening.,rain,0.5,0.79,4.67,6.22
+2016-03-30,1.46,9.81,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.81,2.79,5.89
+2016-03-31,1.76,10.65,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.79,2.94,6.22
+2016-04-01,3.61,8.9,Light rain throughout the day.,rain,0.68,0.85,9.69,5.66
+2016-04-02,5.39,11.58,Light rain in the evening and overnight.,rain,0.57,0.85,2.45,5.82
+2016-04-03,6.33,10.57,"Drizzle until morning, starting again in the evening.",rain,0.77,0.85,3.11,5.25
+2016-04-04,6.59,8.85,Light rain throughout the day.,rain,0.83,0.92,2.98,4.04
+2016-04-05,6.08,11.41,Possible drizzle in the morning.,rain,0.77,0.84,5.13,6.1
+2016-04-06,4.89,8.09,Possible light rain throughout the day.,rain,0.75,0.84,8.21,6.13
+2016-04-07,5.34,11.96,Possible drizzle in the morning.,rain,0.45,0.77,6.49,6.22
+2016-04-08,4.9,10.73,Possible drizzle overnight.,rain,0.75,0.8,4.08,6.21
+2016-04-09,3.51,10.15,Possible drizzle in the morning.,rain,0.66,0.74,3.39,6.16
+2016-04-10,2.51,11.35,Light rain in the morning.,rain,0.6,0.77,3.14,6.22
+2016-04-11,3.71,9.78,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.77,10.23,6.19
+2016-04-12,6.12,8.29,Light rain starting in the afternoon.,rain,0.91,0.86,8.61,6.0
+2016-04-13,5.29,9.62,Overcast throughout the day.,partly-cloudy-day,0.86,0.84,4.57,6.18
+2016-04-14,4.24,10.65,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.72,2.19,6.22
+2016-04-15,1.72,8.15,Possible drizzle in the afternoon and evening.,rain,0.57,0.78,3.94,6.22
+2016-04-16,-0.41,9.23,Clear throughout the day.,clear-day,0.3,0.66,3.9,6.22
+2016-04-17,-0.36,9.97,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.77,6.59,6.22
+2016-04-18,6.04,11.41,Possible drizzle in the morning.,rain,0.71,0.72,9.7,6.07
+2016-04-19,2.96,13.48,Partly cloudy throughout the day.,clear-day,0.28,0.67,3.03,6.22
+2016-04-20,1.14,16.88,Clear throughout the day.,clear-day,0.02,0.65,1.8,6.22
+2016-04-21,2.55,17.1,Foggy in the morning.,clear-day,0.02,0.67,2.83,6.03
+2016-04-22,5.01,12.46,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.65,3.68,6.22
+2016-04-23,0.33,10.72,Clear throughout the day.,clear-day,0.09,0.65,4.67,6.05
+2016-04-24,3.96,13.35,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.63,5.03,6.22
+2016-04-25,3.36,9.38,Clear throughout the day.,clear-day,0.21,0.62,6.65,6.21
+2016-04-26,1.46,9.28,Possible drizzle in the evening.,rain,0.57,0.6,6.88,6.22
+2016-04-27,0.39,8.79,Partly cloudy throughout the day.,clear-day,0.28,0.61,4.23,6.22
+2016-04-28,-0.19,6.87,Light rain throughout the day.,rain,0.58,0.82,5.68,5.74
+2016-04-29,1.36,10.24,Possible drizzle in the morning.,rain,0.47,0.69,7.24,6.21
+2016-04-30,1.84,11.22,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.69,4.78,6.22
+2016-05-01,5.79,12.95,Possible light rain in the morning.,rain,0.75,0.83,7.28,5.96
+2016-05-02,6.3,13.05,Light rain in the morning and overnight.,rain,0.63,0.76,10.87,5.98
+2016-05-03,4.99,11.12,Drizzle in the morning and afternoon.,rain,0.57,0.76,8.5,6.14
+2016-05-04,6.79,12.98,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.76,8.07,6.2
+2016-05-05,8.41,15.12,Drizzle in the morning.,rain,0.55,0.74,6.69,5.76
+2016-05-06,5.42,16.52,Clear throughout the day.,clear-day,0.17,0.71,1.94,6.22
+2016-05-07,7.7,13.68,Clear throughout the day.,clear-day,0.31,0.77,6.98,6.21
+2016-05-08,8.28,20.9,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.77,6.21,5.27
+2016-05-09,8.51,22.21,Clear throughout the day.,clear-day,0.02,0.71,6.96,6.03
+2016-05-10,9.07,21.84,Clear throughout the day.,clear-day,0.05,0.69,6.79,6.17
+2016-05-11,10.11,19.97,Clear throughout the day.,clear-day,0.03,0.66,8.09,6.22
+2016-05-12,9.32,19.53,Clear throughout the day.,clear-day,0.24,0.6,7.58,6.22
+2016-05-13,4.98,11.17,Mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.69,5.02,6.22
+2016-05-14,1.65,15.39,Clear throughout the day.,clear-day,0.31,0.61,3.09,6.22
+2016-05-15,2.95,15.71,Partly cloudy throughout the day.,clear-day,0.22,0.63,3.87,6.21
+2016-05-16,5.36,14.67,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.68,3.48,6.22
+2016-05-17,6.0,15.18,Light rain in the evening and overnight.,rain,0.79,0.8,3.38,5.78
+2016-05-18,10.55,14.83,Light rain throughout the day.,rain,0.8,0.89,3.58,5.66
+2016-05-19,9.35,12.37,Light rain in the afternoon and evening.,rain,0.84,0.88,4.77,5.54
+2016-05-20,8.83,15.55,Light rain in the evening and overnight.,rain,0.77,0.79,6.74,6.18
+2016-05-21,10.59,16.02,Possible drizzle in the afternoon.,rain,0.7,0.83,5.58,5.62
+2016-05-22,8.21,17.02,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.73,3.91,6.22
+2016-05-23,7.2,17.64,Clear throughout the day.,clear-day,0.19,0.69,3.63,6.22
+2016-05-24,6.45,16.99,Clear throughout the day.,clear-day,0.22,0.71,4.02,6.12
+2016-05-25,5.36,15.21,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.66,4.75,6.22
+2016-05-26,9.25,12.68,Possible drizzle in the evening.,rain,0.59,0.82,4.1,5.99
+2016-05-27,8.9,12.86,Overcast throughout the day.,cloudy,0.93,0.88,4.46,6.03
+2016-05-28,9.59,17.79,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.76,3.03,5.87
+2016-05-29,7.92,20.74,Foggy overnight.,partly-cloudy-day,0.48,0.73,2.63,5.73
+2016-05-30,8.31,20.02,Foggy overnight.,partly-cloudy-day,0.55,0.77,2.62,5.25
+2016-05-31,7.9,22.77,Foggy in the morning.,clear-day,0.25,0.69,2.91,4.53
+2016-06-01,7.38,20.95,Clear throughout the day.,clear-day,0.07,0.69,3.39,5.84
+2016-06-02,7.4,21.3,Clear throughout the day.,clear-day,0.25,0.65,3.29,6.22
+2016-06-03,7.05,21.48,Clear throughout the day.,clear-day,0.2,0.68,2.79,6.22
+2016-06-04,12.18,21.16,Partly cloudy throughout the day.,partly-cloudy-day,0.63,0.74,5.02,6.0
+2016-06-05,8.98,24.37,Clear throughout the day.,clear-day,0.22,0.69,3.56,6.12
+2016-06-06,11.02,26.03,Clear throughout the day.,clear-day,0.06,0.67,2.27,6.22
+2016-06-07,11.25,23.09,Clear throughout the day.,clear-day,0.07,0.75,1.82,5.75
+2016-06-08,12.61,23.03,Partly cloudy throughout the day.,clear-day,0.29,0.74,2.92,5.34
+2016-06-09,9.72,23.6,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.73,2.98,6.21
+2016-06-10,11.65,15.36,Overcast throughout the day.,partly-cloudy-day,0.84,0.82,3.74,6.11
+2016-06-11,10.7,14.72,Possible drizzle overnight.,rain,0.94,0.89,3.8,5.35
+2016-06-12,11.34,15.64,Possible drizzle in the morning.,rain,0.92,0.91,3.99,5.37
+2016-06-13,11.9,15.96,Overcast throughout the day.,cloudy,0.92,0.89,4.18,5.62
+2016-06-14,11.07,16.58,Foggy overnight.,partly-cloudy-day,0.76,0.8,5.15,6.15
+2016-06-15,11.35,16.76,Possible light rain overnight.,cloudy,0.89,0.86,4.43,5.46
+2016-06-16,10.2,13.93,Drizzle in the morning.,rain,0.9,0.9,1.98,6.11
+2016-06-17,10.33,15.75,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.8,2.8,6.22
+2016-06-18,7.21,18.35,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.74,3.25,6.14
+2016-06-19,9.95,16.48,Light rain starting in the afternoon.,rain,0.78,0.87,3.7,5.58
+2016-06-20,11.79,16.72,Mostly cloudy throughout the day.,rain,0.87,0.8,7.37,5.85
+2016-06-21,10.67,18.51,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.73,6.38,6.22
+2016-06-22,13.11,18.17,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.75,6.99,6.21
+2016-06-23,11.28,20.29,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.72,4.0,6.21
+2016-06-24,12.48,17.28,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.81,3.49,6.19
+2016-06-25,10.74,19.31,Possible drizzle in the morning and afternoon.,rain,0.52,0.82,3.08,6.16
+2016-06-26,11.62,16.69,Possible drizzle in the afternoon.,rain,0.65,0.87,3.97,5.5
+2016-06-27,10.88,15.6,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.77,6.61,6.22
+2016-06-28,10.44,15.12,Possible light rain in the evening.,rain,0.6,0.81,2.93,6.19
+2016-06-29,9.28,14.73,Possible drizzle in the evening.,rain,0.64,0.81,2.42,6.19
+2016-06-30,10.53,15.27,"Light rain until morning, starting again in the evening.",rain,0.72,0.81,5.12,6.18
+2016-07-01,9.67,15.63,Possible drizzle overnight.,rain,0.7,0.79,5.33,6.12
+2016-07-02,8.76,15.55,Light rain in the morning and afternoon.,rain,0.72,0.82,6.69,6.19
+2016-07-03,10.27,15.21,Possible drizzle in the morning.,rain,0.75,0.8,5.66,6.12
+2016-07-04,10.62,14.28,Light rain in the afternoon and evening.,rain,0.82,0.86,1.81,6.07
+2016-07-05,10.08,16.83,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.79,5.43,6.22
+2016-07-06,7.66,15.56,Light rain throughout the day.,rain,0.45,0.86,3.54,6.09
+2016-07-07,11.84,19.19,Light rain overnight.,rain,0.69,0.79,5.44,5.82
+2016-07-08,12.96,18.27,Light rain in the morning.,rain,0.73,0.8,6.16,5.59
+2016-07-09,11.37,19.81,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.87,3.79,4.67
+2016-07-10,13.92,17.25,Light rain in the afternoon and evening.,rain,0.71,0.87,4.98,5.64
+2016-07-11,12.07,16.42,Overcast throughout the day.,cloudy,0.89,0.86,5.64,5.57
+2016-07-12,11.28,16.5,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.72,4.47,6.22
+2016-07-13,10.17,16.58,Possible light rain in the afternoon.,rain,0.38,0.77,4.71,6.17
+2016-07-14,8.02,19.62,Partly cloudy throughout the day.,clear-day,0.25,0.71,3.51,6.22
+2016-07-15,12.82,19.06,Light rain throughout the day.,rain,0.84,0.88,4.43,5.82
+2016-07-16,12.09,15.03,Possible drizzle overnight.,partly-cloudy-day,0.74,0.79,7.53,6.22
+2016-07-17,11.7,16.43,Mostly cloudy throughout the day.,rain,0.7,0.85,6.09,6.09
+2016-07-18,13.97,22.94,Foggy overnight.,partly-cloudy-day,0.78,0.83,4.2,5.82
+2016-07-19,15.01,28.82,Foggy in the morning.,partly-cloudy-day,0.36,0.71,2.11,5.13
+2016-07-20,13.61,22.36,Rain in the morning.,rain,0.52,0.85,3.53,5.8
+2016-07-21,11.38,22.19,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.77,3.54,6.12
+2016-07-22,14.12,19.71,Possible drizzle in the morning.,rain,0.84,0.83,3.74,5.88
+2016-07-23,12.4,19.21,Possible drizzle overnight.,partly-cloudy-day,0.85,0.8,3.02,6.22
+2016-07-24,13.55,16.71,Light rain throughout the day.,rain,0.89,0.93,1.32,5.26
+2016-07-25,12.55,16.46,Possible light rain in the morning and afternoon.,rain,0.75,0.86,6.51,5.95
+2016-07-26,12.32,16.87,Light rain in the evening and overnight.,rain,0.87,0.83,4.01,6.08
+2016-07-27,11.11,16.74,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.83,5.08,5.74
+2016-07-28,11.4,17.77,Overcast throughout the day.,cloudy,0.91,0.83,2.0,5.93
+2016-07-29,11.68,19.66,Clear throughout the day.,clear-day,0.12,0.74,4.76,6.22
+2016-07-30,11.47,17.63,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.77,5.86,6.21
+2016-07-31,10.95,17.53,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.76,5.62,6.22
+2016-08-01,9.27,19.98,Foggy overnight.,clear-day,0.24,0.72,2.54,6.22
+2016-08-02,8.51,19.07,Light rain in the evening and overnight.,rain,0.67,0.83,3.66,5.01
+2016-08-03,14.31,17.72,Possible drizzle throughout the day.,rain,0.84,0.91,5.2,5.38
+2016-08-04,13.84,18.66,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.8,6.6,6.22
+2016-08-05,10.35,18.09,Clear throughout the day.,partly-cloudy-day,0.39,0.74,3.41,6.21
+2016-08-06,9.68,20.17,Light rain in the afternoon and evening.,rain,0.58,0.81,4.51,6.22
+2016-08-07,12.56,18.35,Light rain in the evening and overnight.,rain,0.71,0.77,11.68,6.06
+2016-08-08,10.9,17.18,Partly cloudy throughout the day.,rain,0.52,0.72,10.46,6.09
+2016-08-09,10.16,16.63,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.74,6.97,6.22
+2016-08-10,7.32,14.33,Drizzle starting in the afternoon.,rain,0.51,0.87,3.59,6.12
+2016-08-11,12.78,16.91,Possible drizzle throughout the day.,rain,0.9,0.93,7.59,5.69
+2016-08-12,13.77,16.4,Light rain in the afternoon and evening.,rain,0.89,0.9,7.85,4.49
+2016-08-13,12.73,16.83,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.84,6.73,6.14
+2016-08-14,11.96,17.37,Overcast throughout the day.,cloudy,0.91,0.81,3.16,5.96
+2016-08-15,11.95,21.5,Foggy overnight.,partly-cloudy-day,0.66,0.74,2.62,6.22
+2016-08-16,11.08,24.5,Foggy in the morning.,clear-day,0.22,0.73,2.69,5.3
+2016-08-17,12.11,23.57,Clear throughout the day.,clear-day,0.11,0.76,2.72,5.81
+2016-08-18,10.26,22.4,Partly cloudy throughout the day.,partly-cloudy-day,0.39,0.8,2.85,5.51
+2016-08-19,12.97,16.12,Light rain in the afternoon and evening.,rain,0.51,0.88,5.05,5.79
+2016-08-20,13.43,16.65,"Light rain until afternoon, starting again overnight.",rain,0.67,0.9,5.35,6.01
+2016-08-21,13.4,19.05,Possible drizzle overnight.,rain,0.66,0.86,4.91,6.18
+2016-08-22,11.56,19.13,Foggy in the morning.,rain,0.78,0.84,3.49,5.24
+2016-08-23,10.73,17.29,Possible drizzle until evening.,rain,0.5,0.9,2.69,6.16
+2016-08-24,11.12,20.22,Clear throughout the day.,clear-day,0.21,0.76,1.93,6.22
+2016-08-25,11.53,19.05,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.84,2.63,6.22
+2016-08-26,12.39,17.86,Foggy overnight.,partly-cloudy-day,0.57,0.81,5.51,6.05
+2016-08-27,10.63,20.33,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.78,1.93,5.81
+2016-08-28,13.16,19.59,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.82,2.55,6.22
+2016-08-29,10.5,18.99,Partly cloudy throughout the day.,partly-cloudy-day,0.39,0.78,4.51,6.22
+2016-08-30,14.93,21.42,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.8,6.26,6.22
+2016-08-31,12.96,16.98,Possible light rain in the morning and afternoon.,rain,0.83,0.82,7.6,5.93
+2016-09-01,12.17,16.7,Light rain in the evening.,rain,0.69,0.82,7.1,5.9
+2016-09-02,12.37,16.71,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.85,5.34,6.1
+2016-09-03,12.2,16.72,Light rain in the evening.,rain,0.76,0.87,3.64,6.15
+2016-09-04,11.96,19.29,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.85,1.93,6.06
+2016-09-05,13.16,20.81,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.88,3.74,5.58
+2016-09-06,16.52,19.56,Drizzle in the evening and overnight.,rain,0.92,0.91,4.11,4.68
+2016-09-07,16.65,21.35,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.86,3.46,5.28
+2016-09-08,13.5,19.0,Light rain until evening.,rain,0.63,0.87,5.31,6.2
+2016-09-09,12.67,16.71,Light rain in the afternoon and evening.,rain,0.8,0.88,7.08,5.81
+2016-09-10,11.11,16.87,Clear throughout the day.,clear-day,0.25,0.75,5.24,6.22
+2016-09-11,11.24,17.97,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.74,8.19,6.22
+2016-09-12,15.26,20.4,Light rain overnight.,partly-cloudy-day,0.87,0.83,7.97,5.7
+2016-09-13,14.91,17.72,Light rain in the morning and overnight.,rain,0.69,0.93,1.96,5.56
+2016-09-14,13.56,16.45,Overcast throughout the day.,rain,0.9,0.91,5.8,6.12
+2016-09-15,13.48,21.76,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.88,3.04,5.15
+2016-09-16,11.21,17.56,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.81,5.56,6.19
+2016-09-17,8.78,17.88,Mostly cloudy throughout the day.,partly-cloudy-day,0.38,0.82,2.37,6.22
+2016-09-18,10.63,16.74,Overcast throughout the day.,cloudy,0.9,0.88,3.28,5.83
+2016-09-19,10.38,16.62,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.78,2.6,6.22
+2016-09-20,8.31,16.18,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.74,2.2,6.22
+2016-09-21,7.99,16.57,Possible light rain in the evening and overnight.,rain,0.72,0.82,3.8,6.06
+2016-09-22,9.44,15.58,Possible light rain overnight.,rain,0.53,0.8,4.64,6.06
+2016-09-23,8.57,15.28,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.81,6.31,6.17
+2016-09-24,13.72,16.87,Light rain throughout the day.,rain,0.89,0.88,9.46,5.81
+2016-09-25,9.35,15.23,Possible light rain starting in the afternoon.,rain,0.59,0.82,5.83,6.22
+2016-09-26,8.08,13.69,Foggy overnight.,partly-cloudy-day,0.5,0.88,2.67,6.0
+2016-09-27,9.21,15.72,Possible drizzle in the morning.,rain,0.68,0.82,7.89,5.34
+2016-09-28,12.82,18.05,Drizzle in the evening and overnight.,rain,0.86,0.87,10.06,5.16
+2016-09-29,9.73,14.71,Possible light rain throughout the day.,rain,0.71,0.83,11.52,5.98
+2016-09-30,7.22,13.05,Possible drizzle in the morning and afternoon.,rain,0.72,0.86,5.34,6.12
+2016-10-01,4.64,14.66,Foggy in the morning and overnight.,partly-cloudy-day,0.53,0.86,1.87,3.8
+2016-10-02,3.12,14.9,Foggy in the morning and afternoon.,partly-cloudy-day,0.47,0.81,2.27,4.13
+2016-10-03,6.12,16.26,Clear throughout the day.,clear-day,0.06,0.77,5.01,6.22
+2016-10-04,7.02,16.95,Clear throughout the day.,clear-day,0.17,0.81,5.0,6.22
+2016-10-05,9.32,16.29,Mostly cloudy throughout the day.,partly-cloudy-day,0.42,0.74,6.1,6.21
+2016-10-06,6.64,15.11,Partly cloudy throughout the day.,clear-day,0.3,0.77,6.23,6.22
+2016-10-07,10.64,14.46,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.77,6.02,6.22
+2016-10-08,9.75,14.71,Clear throughout the day.,clear-day,0.28,0.79,3.42,6.22
+2016-10-09,4.68,13.8,Clear throughout the day.,clear-day,0.15,0.8,2.33,6.0
+2016-10-10,2.43,12.1,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.83,2.96,6.22
+2016-10-11,6.74,12.8,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.84,5.06,6.15
+2016-10-12,8.73,12.8,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.81,5.57,6.22
+2016-10-13,8.37,13.2,Mostly cloudy throughout the day.,partly-cloudy-day,0.7,0.81,5.36,6.22
+2016-10-14,8.81,12.96,Overcast throughout the day.,partly-cloudy-day,0.71,0.84,5.68,6.17
+2016-10-15,8.25,12.62,Overcast throughout the day.,partly-cloudy-day,0.7,0.9,4.77,6.03
+2016-10-16,7.69,12.42,Light rain in the evening and overnight.,rain,0.28,0.86,6.12,5.69
+2016-10-17,9.63,12.86,Light rain throughout the day.,rain,0.68,0.9,6.65,5.97
+2016-10-18,5.56,11.03,Possible drizzle in the morning.,rain,0.69,0.86,5.2,6.17
+2016-10-19,4.41,13.53,Foggy overnight.,clear-day,0.22,0.84,2.47,6.21
+2016-10-20,3.9,13.04,Foggy in the morning.,clear-day,0.06,0.86,0.95,6.0
+2016-10-21,5.54,13.07,Clear throughout the day.,partly-cloudy-day,0.36,0.87,1.09,6.09
+2016-10-22,3.85,11.21,Partly cloudy throughout the day.,clear-day,0.28,0.87,2.91,6.12
+2016-10-23,5.11,10.28,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.83,5.07,6.22
+2016-10-24,3.54,10.38,Foggy overnight.,partly-cloudy-day,0.59,0.85,3.32,6.08
+2016-10-25,4.18,12.33,Foggy in the morning.,partly-cloudy-day,0.41,0.85,2.14,5.68
+2016-10-26,10.44,13.68,Mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.85,7.52,6.02
+2016-10-27,10.63,13.55,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.86,9.63,5.53
+2016-10-28,7.28,12.41,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.78,5.13,6.22
+2016-10-29,6.49,13.9,Foggy in the morning.,partly-cloudy-day,0.87,0.91,2.53,4.61
+2016-10-30,10.14,14.35,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.86,2.79,6.2
+2016-10-31,8.82,14.09,Light rain in the evening and overnight.,rain,0.56,0.89,2.4,5.08
+2016-11-01,2.35,10.45,Clear throughout the day.,clear-day,0.26,0.81,3.4,6.06
+2016-11-02,2.1,10.08,Possible drizzle overnight.,clear-day,0.16,0.82,2.41,6.22
+2016-11-03,5.06,9.23,Possible drizzle in the morning.,rain,0.73,0.9,5.3,5.85
+2016-11-04,3.98,8.61,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.84,2.81,6.08
+2016-11-05,3.21,8.19,Clear throughout the day.,clear-day,0.12,0.67,5.58,6.21
+2016-11-06,2.67,8.24,Clear throughout the day.,clear-day,0.29,0.7,5.89,6.21
+2016-11-07,-0.29,7.67,Clear throughout the day.,clear-day,0.13,0.75,2.73,6.21
+2016-11-08,0.51,5.13,Drizzle in the evening and overnight.,rain,0.77,0.81,3.1,5.37
+2016-11-09,1.03,3.93,Light rain in the morning and overnight.,rain,0.92,0.92,1.88,4.92
+2016-11-10,0.06,8.62,Drizzle in the morning.,rain,0.42,0.86,4.02,5.26
+2016-11-11,-1.18,8.74,Light rain overnight.,rain,0.64,0.88,2.85,4.91
+2016-11-12,4.83,10.82,Light rain in the morning.,rain,0.63,0.89,4.65,5.82
+2016-11-13,1.88,11.05,Drizzle starting in the afternoon.,rain,0.72,0.92,3.63,5.9
+2016-11-14,10.5,14.4,Overcast throughout the day.,rain,0.9,0.92,7.88,5.15
+2016-11-15,9.06,13.81,Possible drizzle overnight.,partly-cloudy-day,0.65,0.82,7.74,5.88
+2016-11-16,4.63,10.03,Light rain throughout the day.,rain,0.59,0.83,10.29,5.66
+2016-11-17,1.82,5.39,Light rain throughout the day.,rain,0.67,0.89,5.88,5.65
+2016-11-18,0.17,4.73,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.92,2.3,5.3
+2016-11-19,-0.47,4.64,Foggy overnight.,partly-cloudy-day,0.58,0.93,2.53,6.05
+2016-11-20,-0.21,2.07,Overcast throughout the day.,cloudy,0.92,0.92,1.43,5.16
+2016-11-21,-2.73,4.43,Foggy in the morning and afternoon.,partly-cloudy-day,0.7,0.88,4.08,3.59
+2016-11-22,0.39,6.75,Possible drizzle in the morning.,rain,0.56,0.81,5.91,6.22
+2016-11-23,-3.06,4.51,Foggy overnight.,clear-day,0.03,0.89,1.1,6.05
+2016-11-24,-4.78,2.83,Foggy in the morning.,clear-day,0.26,0.89,0.78,3.81
+2016-11-25,-4.94,3.62,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.5,0.91,0.82,3.76
+2016-11-26,-1.48,4.85,Foggy in the morning.,partly-cloudy-day,0.48,0.93,0.81,2.41
+2016-11-27,3.53,7.25,Mostly cloudy throughout the day.,cloudy,0.88,0.87,2.54,5.61
+2016-11-28,2.21,5.99,Overcast throughout the day.,cloudy,0.96,0.85,1.41,5.46
+2016-11-29,3.08,8.41,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.81,4.74,6.07
+2016-11-30,5.52,10.31,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.8,7.22,6.22
+2016-12-01,7.67,11.08,Mostly cloudy throughout the day.,cloudy,0.88,0.75,5.77,6.22
+2016-12-02,2.98,8.11,Foggy overnight.,partly-cloudy-day,0.68,0.9,1.54,5.68
+2016-12-03,2.39,6.41,Foggy in the morning.,partly-cloudy-day,0.64,0.91,1.53,4.85
+2016-12-04,-1.31,5.15,Clear throughout the day.,partly-cloudy-day,0.45,0.84,2.95,6.04
+2016-12-05,-3.31,0.98,Foggy throughout the day.,partly-cloudy-day,0.55,0.91,1.61,2.25
+2016-12-06,-0.99,10.58,Possible drizzle in the evening.,rain,0.94,0.95,3.76,2.57
+2016-12-07,11.38,14.28,Overcast throughout the day.,cloudy,0.89,0.89,14.44,6.0
+2016-12-08,7.55,12.15,Mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.88,4.75,5.96
+2016-12-09,7.52,13.07,Possible drizzle in the morning.,rain,0.81,0.89,7.12,5.77
+2016-12-10,6.91,10.68,Possible drizzle in the evening.,rain,0.48,0.84,7.91,6.2
+2016-12-11,6.87,10.43,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.87,6.58,6.22
+2016-12-12,5.01,8.92,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.9,2.52,6.21
+2016-12-13,3.94,8.4,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.92,4.29,4.91
+2016-12-14,5.79,12.64,Light rain in the afternoon and evening.,rain,0.92,0.89,6.0,5.39
+2016-12-15,6.11,10.15,Possible drizzle in the morning.,rain,0.74,0.89,4.65,5.3
+2016-12-16,3.1,9.81,Foggy in the morning and overnight.,partly-cloudy-day,0.59,0.9,3.32,5.11
+2016-12-17,2.13,8.2,Foggy in the morning.,partly-cloudy-day,0.5,0.88,5.31,5.76
+2016-12-18,6.28,9.6,Overcast throughout the day.,cloudy,0.89,0.88,4.39,5.99
+2016-12-19,0.36,9.9,Foggy overnight.,partly-cloudy-day,0.56,0.89,3.77,5.9
+2016-12-20,-1.22,8.25,Light rain in the evening and overnight.,rain,0.79,0.88,6.61,4.05
+2016-12-21,3.76,6.61,Light rain in the morning and afternoon.,rain,0.53,0.83,9.4,6.04
+2016-12-22,4.07,6.54,Light rain until evening.,rain,0.7,0.85,11.06,5.84
+2016-12-23,4.38,9.97,Light rain throughout the day.,rain,0.7,0.84,13.74,5.43
+2016-12-24,4.42,10.04,Light rain throughout the day.,rain,0.69,0.86,13.41,5.51
+2016-12-25,5.14,12.52,Light rain starting in the afternoon.,rain,0.82,0.85,14.16,5.07
+2016-12-26,2.72,6.96,Drizzle until evening.,rain,0.59,0.8,14.53,6.13
+2016-12-27,5.78,7.15,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.79,6.44,6.22
+2016-12-28,5.18,8.9,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.85,5.14,6.21
+2016-12-29,6.31,9.47,Mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.84,7.73,6.22
+2016-12-30,8.9,11.73,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.85,9.99,6.08
+2016-12-31,4.83,11.67,Possible light rain in the afternoon and evening.,rain,0.83,0.84,11.49,5.73
+2017-01-01,0.25,5.58,Partly cloudy throughout the day.,clear-day,0.26,0.78,3.85,6.22
+2017-01-02,-2.48,5.56,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.83,3.95,6.22
+2017-01-03,4.67,8.99,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.86,8.71,6.21
+2017-01-04,-2.31,8.37,Clear throughout the day.,clear-day,0.18,0.75,3.56,6.19
+2017-01-05,-4.38,4.11,Possible drizzle overnight.,partly-cloudy-day,0.36,0.84,2.45,6.22
+2017-01-06,4.02,9.76,Drizzle in the morning and afternoon.,rain,0.91,0.94,4.8,4.29
+2017-01-07,7.28,9.35,Foggy until evening.,cloudy,0.9,0.96,2.05,4.5
+2017-01-08,7.85,10.52,Overcast throughout the day.,cloudy,0.91,0.92,5.47,5.7
+2017-01-09,4.63,10.52,Light rain throughout the day.,rain,0.82,0.87,11.3,5.58
+2017-01-10,5.34,9.35,Possible drizzle overnight.,partly-cloudy-day,0.78,0.83,10.54,5.66
+2017-01-11,2.03,10.33,Drizzle throughout the day.,rain,0.69,0.79,18.67,5.62
+2017-01-12,-0.34,3.17,Foggy in the afternoon.,partly-cloudy-day,0.53,0.88,5.99,5.83
+2017-01-13,-0.89,3.95,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.75,10.13,6.19
+2017-01-14,0.9,5.33,Possible drizzle in the evening and overnight.,rain,0.34,0.83,3.74,6.05
+2017-01-15,3.76,10.53,Possible drizzle in the evening.,rain,0.7,0.92,5.57,6.1
+2017-01-16,7.93,10.4,Overcast throughout the day.,cloudy,0.91,0.92,3.55,5.89
+2017-01-17,7.87,10.75,Foggy in the afternoon.,cloudy,0.92,0.94,4.19,4.73
+2017-01-18,7.45,8.99,Overcast throughout the day.,cloudy,0.95,0.86,5.0,6.0
+2017-01-19,6.38,8.25,Overcast throughout the day.,cloudy,0.97,0.83,4.94,6.22
+2017-01-20,3.09,6.78,Overcast throughout the day.,cloudy,0.95,0.88,2.31,5.89
+2017-01-21,-1.12,5.15,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.36,0.89,2.18,3.42
+2017-01-22,0.26,3.22,Foggy in the morning and overnight.,partly-cloudy-day,0.76,0.93,1.25,3.27
+2017-01-23,-1.68,4.67,Foggy in the morning.,partly-cloudy-day,0.7,0.91,2.35,3.08
+2017-01-24,4.39,9.97,Overcast throughout the day.,cloudy,0.9,0.9,8.39,4.92
+2017-01-25,5.72,10.07,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.8,10.0,6.22
+2017-01-26,-1.49,6.08,Clear throughout the day.,clear-day,0.3,0.78,5.72,5.38
+2017-01-27,-2.86,5.18,Clear throughout the day.,clear-day,0.31,0.81,3.92,3.84
+2017-01-28,1.91,4.02,Drizzle in the morning and afternoon.,rain,0.83,0.92,3.03,3.35
+2017-01-29,0.14,6.54,Foggy in the morning and overnight.,partly-cloudy-day,0.71,0.9,2.51,4.29
+2017-01-30,-1.31,5.71,Foggy in the morning.,partly-cloudy-day,0.7,0.87,4.74,4.04
+2017-01-31,4.96,8.67,Possible drizzle in the afternoon.,rain,0.79,0.9,4.94,4.93
+2017-02-01,5.36,10.06,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.88,5.46,5.24
+2017-02-02,7.85,11.51,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.83,9.58,6.2
+2017-02-03,5.89,10.14,"Light rain until morning, starting again in the evening.",rain,0.79,0.82,8.96,6.04
+2017-02-04,3.43,6.89,Light rain in the morning and afternoon.,rain,0.68,0.88,7.42,5.79
+2017-02-05,1.51,5.32,Drizzle in the morning.,rain,0.77,0.9,2.25,5.88
+2017-02-06,0.61,6.21,Light rain in the evening and overnight.,rain,0.68,0.87,6.74,5.51
+2017-02-07,2.19,4.52,Light rain in the morning and afternoon.,rain,0.77,0.93,3.36,4.97
+2017-02-08,1.42,6.17,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.89,3.58,5.77
+2017-02-09,0.29,4.04,Mostly cloudy throughout the day.,partly-cloudy-day,0.48,0.79,4.51,6.22
+2017-02-10,-0.85,3.65,Mostly cloudy throughout the day.,partly-cloudy-day,0.45,0.81,3.74,6.21
+2017-02-11,-0.69,4.23,Mostly cloudy throughout the day.,partly-cloudy-day,0.7,0.8,7.81,6.22
+2017-02-12,2.38,4.13,Overcast throughout the day.,partly-cloudy-day,0.87,0.78,10.4,6.22
+2017-02-13,3.56,6.06,Overcast throughout the day.,cloudy,0.92,0.84,10.3,5.99
+2017-02-14,3.61,8.86,Clear throughout the day.,partly-cloudy-day,0.4,0.78,6.81,5.09
+2017-02-15,4.95,10.13,Drizzle in the evening and overnight.,rain,0.85,0.88,4.2,4.0
+2017-02-16,5.0,9.86,Foggy overnight.,rain,0.79,0.86,9.34,6.06
+2017-02-17,2.28,9.68,Foggy in the morning.,partly-cloudy-day,0.82,0.91,2.65,4.32
+2017-02-18,7.7,10.78,Possible drizzle in the evening.,rain,0.89,0.89,8.72,5.31
+2017-02-19,7.66,10.98,Overcast throughout the day.,cloudy,0.91,0.91,8.42,5.77
+2017-02-20,7.15,11.9,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.84,11.72,6.06
+2017-02-21,5.69,11.19,Light rain starting in the afternoon.,rain,0.79,0.86,10.09,5.64
+2017-02-22,4.49,8.95,"Light rain until afternoon, starting again overnight.",rain,0.47,0.78,10.26,6.06
+2017-02-23,1.26,5.18,Light rain in the morning and afternoon.,rain,0.86,0.91,7.44,5.03
+2017-02-24,1.26,7.0,Light rain in the evening and overnight.,rain,0.59,0.85,5.2,5.81
+2017-02-25,4.68,10.4,Light rain in the morning.,rain,0.79,0.86,10.35,5.08
+2017-02-26,3.64,9.51,Light rain in the morning and afternoon.,rain,0.79,0.87,9.46,5.64
+2017-02-27,0.06,6.26,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.81,3.86,6.22
+2017-02-28,-1.46,7.27,Foggy in the morning.,partly-cloudy-day,0.45,0.83,2.33,5.49
+2017-03-01,-0.59,7.82,Partly cloudy throughout the day.,clear-day,0.29,0.82,2.75,6.22
+2017-03-02,-1.37,7.73,Possible drizzle in the evening.,rain,0.35,0.81,6.2,6.12
+2017-03-03,-0.67,6.55,Foggy in the morning.,partly-cloudy-day,0.63,0.87,5.12,4.65
+2017-03-04,3.63,6.71,Possible light rain in the morning.,rain,0.91,0.9,6.12,6.19
+2017-03-05,3.08,9.74,Possible drizzle overnight.,partly-cloudy-day,0.57,0.84,2.03,5.29
+2017-03-06,2.79,9.97,Possible drizzle until evening.,rain,0.57,0.83,3.09,5.96
+2017-03-07,1.54,8.22,Light rain overnight.,rain,0.75,0.85,4.8,5.48
+2017-03-08,5.63,10.47,Possible light rain overnight.,rain,0.72,0.81,8.49,6.1
+2017-03-09,4.74,10.95,Partly cloudy throughout the day.,rain,0.44,0.77,7.0,6.13
+2017-03-10,4.48,10.49,Overcast throughout the day.,partly-cloudy-day,0.67,0.86,3.49,5.74
+2017-03-11,8.57,11.18,Possible drizzle in the morning.,rain,0.94,0.91,4.08,5.47
+2017-03-12,5.78,11.03,Foggy in the morning.,partly-cloudy-day,0.67,0.88,3.81,5.3
+2017-03-13,5.04,11.71,Overcast throughout the day.,partly-cloudy-day,0.82,0.77,7.48,5.35
+2017-03-14,6.63,11.81,Mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.77,11.94,5.96
+2017-03-15,5.86,11.65,Overcast throughout the day.,partly-cloudy-day,0.77,0.82,7.76,5.9
+2017-03-16,4.0,10.51,"Possible drizzle until morning, starting again in the evening.",rain,0.75,0.8,10.29,5.98
+2017-03-17,3.98,9.61,Light rain until evening.,rain,0.83,0.9,10.34,5.54
+2017-03-18,7.3,11.09,Light rain throughout the day.,rain,0.83,0.88,5.91,5.94
+2017-03-19,6.39,10.58,Light rain in the morning.,rain,0.81,0.86,8.45,5.8
+2017-03-20,3.41,8.92,"Possible drizzle until afternoon, starting again overnight.",rain,0.64,0.8,11.17,5.93
+2017-03-21,0.27,7.0,Possible light rain in the morning and afternoon.,rain,0.49,0.79,10.37,5.88
+2017-03-22,-1.05,6.11,Clear throughout the day.,clear-day,0.3,0.8,7.87,6.22
+2017-03-23,2.08,8.41,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.77,7.69,6.22
+2017-03-24,-1.23,12.03,Clear throughout the day.,clear-day,0.01,0.75,1.28,5.79
+2017-03-25,-0.1,15.51,Clear throughout the day.,clear-day,0.01,0.66,2.08,6.17
+2017-03-26,0.77,17.53,Clear throughout the day.,clear-day,0.01,0.68,2.31,6.19
+2017-03-27,3.18,16.73,Clear throughout the day.,clear-day,0.04,0.69,3.49,5.85
+2017-03-28,5.53,11.72,Overcast throughout the day.,cloudy,0.9,0.84,3.19,5.03
+2017-03-29,7.71,12.34,Possible drizzle in the evening.,rain,0.92,0.9,3.79,4.21
+2017-03-30,10.03,14.17,Light rain in the evening and overnight.,rain,0.9,0.88,5.72,5.9
+2017-03-31,9.73,13.51,Possible drizzle in the afternoon.,rain,0.83,0.87,7.35,6.05
+2017-04-01,7.2,13.58,Possible drizzle in the afternoon and evening.,rain,0.79,0.83,4.75,6.2
+2017-04-02,3.47,12.91,Partly cloudy throughout the day.,clear-day,0.29,0.74,4.27,6.22
+2017-04-03,5.38,11.87,Possible drizzle in the evening.,rain,0.59,0.81,6.97,5.8
+2017-04-04,6.07,11.41,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.74,9.18,6.17
+2017-04-05,7.15,10.97,Overcast throughout the day.,partly-cloudy-day,0.81,0.71,9.11,6.22
+2017-04-06,6.66,12.05,Overcast throughout the day.,cloudy,0.89,0.82,6.69,6.17
+2017-04-07,7.25,11.21,Overcast throughout the day.,partly-cloudy-day,0.87,0.79,5.85,6.22
+2017-04-08,6.24,16.0,Foggy overnight.,partly-cloudy-day,0.52,0.73,3.8,6.19
+2017-04-09,4.71,13.5,Foggy in the morning.,partly-cloudy-day,0.47,0.81,5.79,4.67
+2017-04-10,5.84,12.42,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.71,8.83,6.22
+2017-04-11,6.53,10.93,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.79,10.03,6.09
+2017-04-12,6.16,11.45,Mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.77,10.53,6.08
+2017-04-13,4.83,11.15,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.79,7.19,6.12
+2017-04-14,5.49,10.28,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.82,6.29,6.21
+2017-04-15,4.79,9.94,Possible drizzle in the morning.,rain,0.62,0.74,8.39,6.2
+2017-04-16,4.61,8.31,Light rain in the morning and afternoon.,rain,0.63,0.84,3.71,5.51
+2017-04-17,3.8,12.34,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.73,3.93,6.22
+2017-04-18,-1.32,10.29,Clear throughout the day.,clear-day,0.08,0.65,2.45,6.22
+2017-04-19,6.36,14.03,Mostly cloudy throughout the day.,cloudy,0.88,0.76,4.71,6.05
+2017-04-20,9.65,13.25,Overcast throughout the day.,cloudy,0.93,0.83,6.65,6.16
+2017-04-21,6.61,13.42,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.78,8.63,6.22
+2017-04-22,0.86,12.39,Clear throughout the day.,clear-day,0.14,0.64,4.64,6.21
+2017-04-23,1.7,12.23,Partly cloudy throughout the day.,partly-cloudy-day,0.39,0.71,5.67,6.22
+2017-04-24,2.46,9.3,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.66,10.14,6.21
+2017-04-25,1.04,9.83,Clear throughout the day.,clear-day,0.19,0.59,8.05,6.22
+2017-04-26,-0.02,9.15,Clear throughout the day.,clear-day,0.14,0.64,4.72,6.21
+2017-04-27,6.55,13.52,Clear throughout the day.,partly-cloudy-day,0.32,0.7,8.97,6.22
+2017-04-28,5.73,12.5,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.71,2.73,6.22
+2017-04-29,6.98,11.87,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.71,5.17,6.22
+2017-04-30,8.0,14.9,Clear throughout the day.,clear-day,0.07,0.62,7.55,6.21
+2017-05-01,8.02,15.27,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.73,8.04,6.22
+2017-05-02,7.77,15.11,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.76,6.38,6.15
+2017-05-03,6.49,17.67,Clear throughout the day.,partly-cloudy-day,0.34,0.6,6.7,6.22
+2017-05-04,5.84,15.37,Clear throughout the day.,clear-day,0.15,0.67,8.28,6.22
+2017-05-05,5.07,16.22,Clear throughout the day.,clear-day,0.01,0.59,7.56,6.22
+2017-05-06,4.64,16.56,Clear throughout the day.,clear-day,0.02,0.58,6.63,6.22
+2017-05-07,7.16,18.11,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.69,3.39,6.01
+2017-05-08,2.13,15.32,Clear throughout the day.,clear-day,0.02,0.65,5.3,6.22
+2017-05-09,4.87,16.05,Partly cloudy throughout the day.,partly-cloudy-day,0.54,0.68,3.84,6.22
+2017-05-10,4.54,13.59,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.73,3.88,6.21
+2017-05-11,4.13,18.46,Clear throughout the day.,clear-day,0.06,0.65,3.94,6.22
+2017-05-12,7.32,16.5,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.74,6.55,6.04
+2017-05-13,9.48,14.12,Possible drizzle in the morning and afternoon.,rain,0.87,0.9,4.51,4.67
+2017-05-14,8.6,16.23,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.74,7.71,6.18
+2017-05-15,9.49,15.13,"Light rain until afternoon, starting again overnight.",rain,0.66,0.87,6.38,6.0
+2017-05-16,9.32,16.6,Possible drizzle in the afternoon.,rain,0.76,0.82,6.91,5.88
+2017-05-17,6.73,17.22,Foggy in the morning.,clear-day,0.23,0.72,4.4,5.62
+2017-05-18,7.71,16.11,Clear throughout the day.,clear-day,0.21,0.71,3.71,6.01
+2017-05-19,5.42,16.64,Possible drizzle overnight.,partly-cloudy-day,0.39,0.73,2.53,5.84
+2017-05-20,8.4,14.28,Light rain in the morning and afternoon.,rain,0.58,0.83,4.01,6.08
+2017-05-21,7.96,15.36,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.79,5.61,6.15
+2017-05-22,8.36,17.31,Light rain in the evening and overnight.,rain,0.49,0.8,5.46,6.1
+2017-05-23,7.42,16.53,Possible drizzle overnight.,rain,0.56,0.8,4.37,5.88
+2017-05-24,12.66,18.58,Overcast throughout the day.,rain,0.9,0.86,4.83,6.11
+2017-05-25,13.71,25.6,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.74,2.76,5.5
+2017-05-26,14.61,26.72,Clear throughout the day.,clear-day,0.19,0.63,5.28,6.05
+2017-05-27,15.81,23.18,Possible light rain in the afternoon and evening.,rain,0.25,0.77,3.42,6.1
+2017-05-28,13.01,19.61,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.78,6.2,6.19
+2017-05-29,10.89,14.5,Possible drizzle in the evening and overnight.,rain,0.86,0.82,5.14,5.68
+2017-05-30,9.73,15.91,Drizzle in the morning and afternoon.,rain,0.81,0.84,5.83,4.91
+2017-05-31,6.58,19.67,Clear throughout the day.,clear-day,0.2,0.67,3.63,6.22
+2017-06-01,12.6,16.63,Drizzle in the evening and overnight.,rain,0.82,0.8,6.8,5.8
+2017-06-02,11.21,18.35,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.76,3.7,6.21
+2017-06-03,7.87,17.39,Possible drizzle in the afternoon.,rain,0.26,0.74,3.91,6.22
+2017-06-04,8.66,16.25,Possible drizzle overnight.,clear-day,0.28,0.75,5.12,6.22
+2017-06-05,8.78,16.95,"Light rain until morning, starting again in the evening.",rain,0.7,0.83,4.46,5.73
+2017-06-06,9.71,12.18,Light rain throughout the day.,rain,0.63,0.93,8.83,5.99
+2017-06-07,9.03,15.7,Clear throughout the day.,rain,0.28,0.66,10.17,6.22
+2017-06-08,10.57,13.6,Light rain throughout the day.,rain,0.82,0.89,3.78,5.24
+2017-06-09,11.22,16.91,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.85,5.68,5.85
+2017-06-10,11.57,19.56,Possible drizzle in the morning and overnight.,rain,0.58,0.83,7.56,5.17
+2017-06-11,12.22,16.11,Light rain throughout the day.,rain,0.78,0.84,9.24,5.94
+2017-06-12,11.46,14.81,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.83,9.83,6.07
+2017-06-13,10.85,17.67,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.85,5.07,6.08
+2017-06-14,13.34,20.08,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.78,4.97,6.22
+2017-06-15,11.96,17.55,Possible drizzle until evening.,rain,0.67,0.81,6.72,6.01
+2017-06-16,11.58,16.37,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.86,6.8,5.94
+2017-06-17,14.91,22.69,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.8,5.14,6.22
+2017-06-18,14.6,22.32,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.78,4.03,6.22
+2017-06-19,12.95,20.55,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.77,4.46,6.19
+2017-06-20,7.72,21.56,Clear throughout the day.,clear-day,0.16,0.73,3.68,6.22
+2017-06-21,13.77,21.19,Mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.85,2.62,5.84
+2017-06-22,13.12,17.6,Possible light rain overnight.,partly-cloudy-day,0.77,0.8,5.5,6.13
+2017-06-23,11.79,16.86,Possible drizzle in the morning.,rain,0.78,0.79,9.15,5.5
+2017-06-24,10.67,15.31,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.72,10.54,6.22
+2017-06-25,10.16,15.93,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.71,8.47,6.22
+2017-06-26,10.4,17.41,Light rain overnight.,clear-day,0.24,0.7,2.62,6.22
+2017-06-27,10.34,13.8,Light rain throughout the day.,rain,0.84,0.91,5.46,5.24
+2017-06-28,10.6,15.19,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.79,7.22,6.2
+2017-06-29,9.63,12.14,Drizzle until evening.,rain,0.69,0.86,6.26,6.14
+2017-06-30,11.68,17.37,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.84,4.2,6.11
+2017-07-01,11.06,15.87,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.84,6.52,5.13
+2017-07-02,11.4,14.72,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.81,7.23,6.13
+2017-07-03,10.97,16.93,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.73,5.73,6.05
+2017-07-04,10.31,14.09,Possible light rain in the morning and afternoon.,rain,0.63,0.88,3.97,6.04
+2017-07-05,11.22,19.0,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.78,4.24,6.21
+2017-07-06,12.62,18.66,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.86,2.93,5.81
+2017-07-07,11.03,16.6,Possible drizzle in the morning.,rain,0.75,0.82,5.22,5.71
+2017-07-08,10.38,17.65,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.67,5.67,6.22
+2017-07-09,12.26,14.8,Light rain throughout the day.,rain,0.65,0.88,4.62,6.08
+2017-07-10,11.0,15.05,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.87,3.1,6.21
+2017-07-11,8.57,17.93,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.77,3.44,6.22
+2017-07-12,6.77,20.65,Clear throughout the day.,clear-day,0.12,0.69,2.8,6.15
+2017-07-13,11.28,18.54,Possible light rain in the evening.,rain,0.54,0.76,3.97,6.02
+2017-07-14,11.42,16.72,Possible drizzle in the evening.,rain,0.6,0.79,5.64,5.92
+2017-07-15,12.63,18.72,Possible drizzle in the morning.,rain,0.91,0.91,5.86,5.39
+2017-07-16,12.52,17.71,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.73,6.75,6.22
+2017-07-17,12.61,21.0,Foggy overnight.,partly-cloudy-day,0.56,0.73,7.2,6.22
+2017-07-18,9.61,25.99,Foggy in the morning.,clear-day,0.2,0.69,4.34,5.21
+2017-07-19,13.7,20.7,Light rain in the evening and overnight.,rain,0.44,0.79,7.47,6.09
+2017-07-20,10.72,16.77,Partly cloudy throughout the day.,rain,0.53,0.76,6.06,6.12
+2017-07-21,8.63,19.2,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.8,6.47,6.22
+2017-07-22,13.86,16.96,Possible drizzle in the afternoon and evening.,rain,0.51,0.86,7.98,6.17
+2017-07-23,13.3,20.6,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.87,3.01,6.21
+2017-07-24,11.09,24.76,Clear throughout the day.,clear-day,0.04,0.7,2.76,6.22
+2017-07-25,10.71,18.78,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.82,1.78,6.14
+2017-07-26,12.15,17.26,Rain in the morning and afternoon.,rain,0.58,0.84,5.4,5.31
+2017-07-27,11.55,17.93,Possible drizzle in the evening.,rain,0.52,0.81,5.97,5.9
+2017-07-28,11.72,17.8,Light rain in the evening.,rain,0.68,0.83,7.17,6.1
+2017-07-29,12.51,17.01,Light rain in the evening and overnight.,rain,0.69,0.84,7.78,5.82
+2017-07-30,11.69,17.43,Mostly cloudy throughout the day.,rain,0.62,0.83,5.72,6.22
+2017-07-31,11.78,17.75,Possible light rain in the afternoon and evening.,rain,0.55,0.82,5.71,6.19
+2017-08-01,11.81,17.1,Possible drizzle in the morning and afternoon.,rain,0.53,0.83,5.23,6.22
+2017-08-02,9.72,18.54,Light rain starting in the afternoon.,rain,0.62,0.84,4.62,5.66
+2017-08-03,13.54,18.94,Light rain in the morning.,rain,0.76,0.85,5.55,5.96
+2017-08-04,12.46,16.6,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.81,8.25,6.22
+2017-08-05,10.7,16.9,Possible drizzle in the afternoon.,rain,0.3,0.76,5.77,6.22
+2017-08-06,7.98,15.71,Possible light rain in the afternoon.,rain,0.51,0.85,4.54,5.79
+2017-08-07,10.76,17.9,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.81,5.73,6.19
+2017-08-08,8.18,20.22,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.73,3.23,6.12
+2017-08-09,7.96,19.86,Clear throughout the day.,clear-day,0.2,0.7,5.33,6.12
+2017-08-10,8.8,16.43,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.76,5.3,6.22
+2017-08-11,12.47,17.88,Possible drizzle in the afternoon.,rain,0.79,0.86,8.86,5.38
+2017-08-12,11.5,17.41,Possible drizzle in the morning and afternoon.,rain,0.39,0.78,6.47,6.21
+2017-08-13,7.26,18.0,Clear throughout the day.,clear-day,0.22,0.72,3.39,6.22
+2017-08-14,11.2,17.15,"Light rain until morning, starting again in the evening.",rain,0.72,0.87,6.08,5.85
+2017-08-15,11.82,17.85,Drizzle in the morning.,rain,0.5,0.82,4.95,6.04
+2017-08-16,10.44,16.38,Possible drizzle throughout the day.,rain,0.67,0.88,6.09,5.92
+2017-08-17,11.26,19.68,Light rain overnight.,partly-cloudy-day,0.44,0.82,6.01,6.07
+2017-08-18,11.23,15.1,Light rain throughout the day.,rain,0.7,0.86,7.9,5.87
+2017-08-19,10.8,15.4,"Possible drizzle until afternoon, starting again overnight.",rain,0.61,0.84,9.26,6.0
+2017-08-20,9.31,17.42,Possible drizzle in the morning.,rain,0.55,0.79,4.09,6.12
+2017-08-21,7.31,18.68,Foggy in the morning.,partly-cloudy-day,0.61,0.81,2.29,5.37
+2017-08-22,14.43,20.81,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.86,4.28,6.15
+2017-08-23,14.23,19.42,Possible light rain in the morning.,rain,0.49,0.82,5.58,5.41
+2017-08-24,12.92,18.14,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.83,4.34,6.08
+2017-08-25,13.52,16.36,Light rain throughout the day.,rain,0.79,0.91,5.47,5.74
+2017-08-26,12.41,18.15,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.86,3.62,5.32
+2017-08-27,11.57,18.97,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.85,3.92,6.22
+2017-08-28,12.21,17.6,Possible drizzle in the afternoon.,rain,0.83,0.86,7.2,5.34
+2017-08-29,9.18,15.06,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.81,5.77,6.15
+2017-08-30,9.93,16.32,Foggy in the morning.,partly-cloudy-day,0.57,0.81,5.07,5.95
+2017-08-31,8.16,17.82,Drizzle in the afternoon and evening.,rain,0.14,0.81,3.25,6.07
+2017-09-01,10.23,18.01,Clear throughout the day.,clear-day,0.03,0.75,4.3,6.22
+2017-09-02,6.43,18.53,Mostly cloudy throughout the day.,partly-cloudy-day,0.38,0.78,3.57,6.15
+2017-09-03,10.37,16.1,Light rain starting in the afternoon.,rain,0.71,0.83,6.55,6.08
+2017-09-04,11.91,17.02,Light rain in the afternoon.,rain,0.78,0.93,4.56,5.23
+2017-09-05,11.56,16.27,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.84,5.23,5.64
+2017-09-06,10.82,15.48,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.83,7.11,6.21
+2017-09-07,11.15,14.81,Light rain starting in the afternoon.,rain,0.83,0.91,5.86,5.35
+2017-09-08,10.64,14.7,Mostly cloudy throughout the day.,rain,0.69,0.87,6.89,5.99
+2017-09-09,10.16,17.71,Clear throughout the day.,clear-day,0.24,0.81,4.42,6.08
+2017-09-10,10.21,14.42,Light rain starting in the afternoon.,rain,0.76,0.87,7.23,5.56
+2017-09-11,10.11,15.62,Light rain in the morning.,rain,0.53,0.82,9.06,6.22
+2017-09-12,9.3,14.89,Light rain in the evening and overnight.,rain,0.59,0.81,6.69,6.13
+2017-09-13,8.37,13.92,Possible drizzle in the morning and afternoon.,rain,0.41,0.85,5.0,5.9
+2017-09-14,8.66,14.46,Possible drizzle overnight.,clear-day,0.14,0.77,6.96,6.22
+2017-09-15,8.47,15.61,Partly cloudy throughout the day.,rain,0.49,0.77,5.81,6.21
+2017-09-16,5.45,12.72,Clear throughout the day.,clear-day,0.18,0.83,2.51,6.22
+2017-09-17,5.83,15.91,Mostly cloudy throughout the day.,partly-cloudy-day,0.68,0.81,2.97,6.13
+2017-09-18,8.62,14.45,Foggy overnight.,partly-cloudy-day,0.57,0.83,1.77,5.98
+2017-09-19,4.78,16.14,Foggy in the morning.,partly-cloudy-day,0.5,0.81,2.75,4.99
+2017-09-20,11.96,16.12,Possible light rain in the evening and overnight.,rain,0.91,0.89,4.38,4.46
+2017-09-21,7.55,15.96,Possible light rain in the morning.,rain,0.31,0.84,4.29,6.21
+2017-09-22,6.54,13.96,Foggy overnight.,partly-cloudy-day,0.44,0.86,5.42,6.22
+2017-09-23,10.07,17.17,Foggy in the morning.,partly-cloudy-day,0.67,0.85,4.54,5.21
+2017-09-24,12.55,15.48,Possible light rain starting in the afternoon.,rain,0.88,0.88,3.66,4.61
+2017-09-25,11.5,17.44,Foggy in the morning and overnight.,rain,0.84,0.92,1.45,3.65
+2017-09-26,10.91,17.75,Foggy in the morning.,partly-cloudy-day,0.56,0.88,3.31,4.07
+2017-09-27,12.56,16.59,Possible light rain in the evening and overnight.,rain,0.76,0.82,6.54,5.26
+2017-09-28,12.0,16.72,Possible drizzle overnight.,partly-cloudy-day,0.62,0.83,5.3,5.99
+2017-09-29,9.9,16.22,Possible drizzle in the morning.,rain,0.57,0.79,6.55,6.01
+2017-09-30,6.16,13.75,Foggy overnight.,partly-cloudy-day,0.42,0.79,5.65,6.04
+2017-10-01,4.71,15.52,"Possible light rain until afternoon, starting again overnight.",rain,0.66,0.89,7.08,4.25
+2017-10-02,9.9,14.23,Possible drizzle in the morning.,rain,0.75,0.81,13.72,5.51
+2017-10-03,9.61,12.45,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.78,10.16,5.82
+2017-10-04,10.02,11.79,"Possible light rain until morning, starting again in the evening.",rain,0.76,0.88,8.64,5.27
+2017-10-05,7.67,13.79,Partly cloudy throughout the day.,rain,0.58,0.8,7.28,5.95
+2017-10-06,4.34,12.18,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.81,4.54,6.04
+2017-10-07,11.48,15.18,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.87,7.89,5.69
+2017-10-08,9.82,14.04,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.87,3.41,6.21
+2017-10-09,11.44,14.48,Possible light rain overnight.,partly-cloudy-day,0.83,0.88,4.54,6.18
+2017-10-10,9.42,14.11,Possible light rain in the morning and overnight.,rain,0.68,0.85,9.09,5.86
+2017-10-11,8.78,14.31,Possible light rain until evening.,rain,0.68,0.87,8.53,5.21
+2017-10-12,8.6,13.92,Possible light rain in the evening and overnight.,rain,0.7,0.82,8.79,6.07
+2017-10-13,12.56,17.47,Light rain in the morning and afternoon.,rain,0.77,0.89,9.7,5.9
+2017-10-14,11.84,15.0,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.84,5.26,6.14
+2017-10-15,10.1,17.07,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.81,8.96,6.22
+2017-10-16,9.83,16.29,Possible light rain in the morning.,rain,0.71,0.88,7.51,5.51
+2017-10-17,9.9,14.17,Possible light rain in the morning and overnight.,rain,0.8,0.86,12.33,5.48
+2017-10-18,8.83,11.94,Mostly cloudy throughout the day.,rain,0.7,0.91,5.46,5.27
+2017-10-19,10.02,14.35,Light rain in the evening and overnight.,rain,0.76,0.9,5.69,5.29
+2017-10-20,9.77,14.81,Possible drizzle overnight.,rain,0.66,0.9,3.0,4.8
+2017-10-21,9.72,13.63,Light rain in the morning and overnight.,rain,0.7,0.88,6.0,5.81
+2017-10-22,6.26,12.16,Mostly cloudy throughout the day.,rain,0.65,0.86,8.86,6.16
+2017-10-23,5.98,14.4,Possible drizzle in the afternoon and evening.,rain,0.61,0.91,4.89,5.73
+2017-10-24,9.54,14.03,Possible drizzle in the morning.,rain,0.53,0.87,6.19,5.91
+2017-10-25,10.02,13.15,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.83,8.82,5.98
+2017-10-26,7.54,13.15,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.82,7.27,6.17
+2017-10-27,2.54,12.44,Foggy in the morning.,partly-cloudy-day,0.34,0.82,4.79,5.99
+2017-10-28,9.51,13.83,Overcast throughout the day.,cloudy,0.88,0.88,11.64,5.93
+2017-10-29,0.78,12.03,Clear throughout the day.,clear-day,0.22,0.72,4.06,6.22
+2017-10-30,-0.75,10.65,Drizzle overnight.,partly-cloudy-day,0.38,0.85,2.57,6.09
+2017-10-31,10.16,13.61,Possible drizzle overnight.,rain,0.94,0.92,7.12,4.32
+2017-11-01,9.28,12.69,Light rain in the morning and afternoon.,rain,0.7,0.91,7.61,5.43
+2017-11-02,2.77,10.77,Clear throughout the day.,clear-day,0.28,0.82,1.95,6.19
+2017-11-03,6.71,9.78,Overcast throughout the day.,cloudy,0.9,0.82,5.18,6.1
+2017-11-04,4.11,9.67,Possible drizzle in the morning.,rain,0.58,0.84,5.54,6.16
+2017-11-05,0.37,9.64,Foggy overnight.,clear-day,0.12,0.8,3.87,6.03
+2017-11-06,-0.78,12.17,Possible light rain overnight.,partly-cloudy-day,0.69,0.86,7.29,5.02
+2017-11-07,1.36,12.32,Possible light rain in the morning.,rain,0.44,0.86,5.83,5.83
+2017-11-08,-0.25,11.48,Foggy in the morning.,partly-cloudy-day,0.71,0.9,5.39,3.59
+2017-11-09,7.76,12.16,Possible light rain overnight.,partly-cloudy-day,0.72,0.76,10.24,5.86
+2017-11-10,3.84,9.03,Partly cloudy throughout the day.,rain,0.61,0.82,9.77,5.96
+2017-11-11,0.87,7.66,Clear throughout the day.,clear-day,0.2,0.86,3.2,6.22
+2017-11-12,2.17,7.96,Clear throughout the day.,clear-day,0.16,0.75,5.68,6.22
+2017-11-13,-1.73,10.06,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.86,5.48,5.22
+2017-11-14,5.99,11.2,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.89,4.4,6.08
+2017-11-15,3.07,9.22,Clear throughout the day.,partly-cloudy-day,0.38,0.91,3.18,5.79
+2017-11-16,3.81,11.08,Possible light rain in the morning.,rain,0.55,0.81,9.43,6.22
+2017-11-17,3.52,8.76,Possible drizzle in the evening.,rain,0.5,0.84,9.43,6.18
+2017-11-18,0.78,7.92,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.77,8.01,6.21
+2017-11-19,-1.19,5.1,Possible light rain in the evening and overnight.,rain,0.23,0.88,2.55,5.99
+2017-11-20,4.61,7.95,"Possible light rain until morning, starting again in the evening.",rain,0.95,0.95,3.08,2.46
+2017-11-21,6.93,12.92,Light rain until evening.,rain,0.95,0.95,5.59,2.87
+2017-11-22,4.26,10.57,Light rain throughout the day.,rain,0.77,0.93,3.16,5.89
+2017-11-23,1.97,5.19,Partly cloudy throughout the day.,rain,0.5,0.89,4.73,6.1
+2017-11-24,-0.12,2.79,Drizzle in the morning and afternoon.,rain,0.42,0.91,3.7,6.22
+2017-11-25,0.42,4.3,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.88,7.17,6.21
+2017-11-26,1.44,8.51,Possible drizzle in the evening and overnight.,rain,0.61,0.87,6.94,6.14
+2017-11-27,2.71,7.98,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.86,7.58,6.07
+2017-11-28,1.72,6.31,Clear throughout the day.,clear-day,0.17,0.79,5.43,6.22
+2017-11-29,0.09,4.87,Clear throughout the day.,clear-day,0.14,0.76,4.43,6.22
+2017-11-30,0.14,4.47,Clear throughout the day.,clear-day,0.2,0.76,4.98,6.22
+2017-12-01,-1.63,4.71,Clear throughout the day.,clear-day,0.25,0.82,2.58,6.2
+2017-12-02,4.39,9.53,Overcast throughout the day.,partly-cloudy-day,0.81,0.9,5.34,6.22
+2017-12-03,5.38,9.58,Clear throughout the day.,clear-day,0.23,0.81,5.24,6.19
+2017-12-04,5.93,9.76,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.9,6.0,6.22
+2017-12-05,7.39,9.28,Overcast throughout the day.,cloudy,0.89,0.87,10.9,6.08
+2017-12-06,8.66,12.97,Possible light rain starting in the afternoon.,rain,0.91,0.87,14.02,5.73
+2017-12-07,1.83,13.11,Possible drizzle in the morning and afternoon.,rain,0.68,0.82,15.28,5.88
+2017-12-08,0.14,2.51,Clear throughout the day.,clear-day,0.14,0.75,10.62,6.22
+2017-12-09,-1.53,3.39,Clear throughout the day.,clear-day,0.06,0.82,4.48,6.21
+2017-12-10,-7.57,-0.79,Foggy until evening.,partly-cloudy-day,0.56,0.9,1.19,2.34
+2017-12-11,-7.44,2.09,Clear throughout the day.,clear-day,0.23,0.89,1.39,5.07
+2017-12-12,-4.36,5.12,Possible light rain in the evening and overnight.,rain,0.41,0.9,3.61,5.52
+2017-12-13,0.72,5.77,Possible light rain in the morning and afternoon.,rain,0.58,0.9,8.1,6.08
+2017-12-14,0.99,3.63,Possible drizzle in the morning.,rain,0.66,0.92,5.0,5.51
+2017-12-15,0.14,5.37,Clear throughout the day.,clear-day,0.07,0.82,4.67,6.22
+2017-12-16,-1.81,2.45,Foggy in the evening.,clear-day,0.15,0.9,1.82,5.55
+2017-12-17,-0.24,9.84,Light rain in the morning.,rain,0.72,0.89,7.05,5.11
+2017-12-18,0.02,7.91,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.91,2.82,5.15
+2017-12-19,7.5,11.96,Overcast throughout the day.,cloudy,0.96,0.91,8.14,5.92
+2017-12-20,6.23,11.92,Foggy overnight.,partly-cloudy-day,0.61,0.91,6.76,5.33
+2017-12-21,3.86,6.94,Foggy throughout the day.,fog,0.78,0.93,1.52,1.5
+2017-12-22,2.31,10.26,Foggy in the morning and afternoon.,cloudy,0.96,0.96,3.34,2.32
+2017-12-23,9.43,12.62,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.9,12.59,5.22
+2017-12-24,9.64,12.09,"Light rain until afternoon, starting again overnight.",rain,0.88,0.9,12.38,4.3
+2017-12-25,2.49,10.42,Light rain throughout the day.,rain,0.73,0.93,4.17,5.85
+2017-12-26,-2.64,3.81,Foggy in the morning.,rain,0.3,0.92,2.0,5.46
+2017-12-27,-2.92,2.81,Clear throughout the day.,clear-day,0.02,0.85,3.99,6.22
+2017-12-28,-2.92,4.15,Clear throughout the day.,clear-day,0.11,0.83,4.85,6.18
+2017-12-29,-3.31,2.01,Possible drizzle in the evening.,rain,0.8,0.92,5.84,3.74
+2017-12-30,1.02,5.88,Possible light rain until evening.,rain,0.76,0.92,5.54,4.05
+2017-12-31,4.09,8.15,Light rain until evening.,rain,0.72,0.87,13.14,5.63
+2018-01-01,3.28,6.69,Mostly cloudy throughout the day.,rain,0.62,0.87,6.65,6.17
+2018-01-02,3.31,6.39,Light rain throughout the day.,rain,0.57,0.89,6.04,5.69
+2018-01-03,2.25,7.65,Possible light rain until evening.,rain,0.75,0.91,6.73,5.46
+2018-01-04,2.78,5.81,Light rain until evening.,rain,0.86,0.95,2.67,5.64
+2018-01-05,2.31,4.21,Mostly cloudy throughout the day.,partly-cloudy-day,0.82,0.93,3.19,5.62
+2018-01-06,-2.15,4.02,Partly cloudy throughout the day.,clear-day,0.16,0.77,7.15,6.22
+2018-01-07,-5.42,1.43,Foggy in the morning and overnight.,clear-day,0.0,0.85,1.16,5.12
+2018-01-08,-5.93,2.79,Clear throughout the day.,clear-day,0.11,0.82,3.88,5.57
+2018-01-09,0.31,3.64,Foggy overnight.,partly-cloudy-day,0.8,0.86,5.07,6.08
+2018-01-10,1.72,4.51,Foggy in the morning and overnight.,cloudy,0.95,0.93,2.53,3.35
+2018-01-11,0.11,3.95,"Foggy until morning, starting again in the evening.",fog,0.88,0.93,1.14,1.99
+2018-01-12,0.61,6.87,Mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.86,4.81,4.61
+2018-01-13,3.61,5.96,Overcast throughout the day.,partly-cloudy-day,0.83,0.84,6.25,5.58
+2018-01-14,4.46,7.72,Light rain in the evening and overnight.,rain,0.82,0.88,11.09,5.15
+2018-01-15,1.83,8.81,Light rain throughout the day.,rain,0.69,0.89,7.65,5.81
+2018-01-16,-0.21,2.08,Foggy in the evening and overnight.,rain,0.69,0.91,8.25,5.13
+2018-01-17,-0.01,3.64,Light rain in the afternoon and evening.,rain,0.51,0.88,7.75,6.03
+2018-01-18,0.53,3.29,Possible light rain in the afternoon.,rain,0.51,0.92,3.83,5.9
+2018-01-19,0.62,2.73,Drizzle starting in the afternoon.,rain,0.63,0.91,6.26,6.03
+2018-01-20,-2.89,2.88,Possible drizzle in the afternoon.,rain,0.17,0.93,2.4,6.17
+2018-01-21,-3.29,5.17,Foggy until evening.,partly-cloudy-day,0.55,0.93,3.16,3.6
+2018-01-22,4.81,7.45,Possible drizzle in the morning.,rain,0.75,0.88,8.13,6.0
+2018-01-23,5.99,10.67,Light rain throughout the day.,rain,0.79,0.89,9.06,5.49
+2018-01-24,5.31,9.91,Light rain throughout the day.,rain,0.73,0.82,13.95,5.79
+2018-01-25,2.83,7.3,Mostly cloudy throughout the day.,partly-cloudy-day,0.82,0.84,5.84,6.22
+2018-01-26,-1.66,6.57,Clear throughout the day.,clear-day,0.24,0.89,2.95,6.15
+2018-01-27,5.22,10.95,Possible drizzle in the afternoon.,rain,0.8,0.86,12.51,5.37
+2018-01-28,6.49,11.75,"Light rain until afternoon, starting again overnight.",rain,0.88,0.9,11.91,4.08
+2018-01-29,3.92,10.81,Drizzle in the morning.,rain,0.56,0.81,9.18,6.08
+2018-01-30,4.3,6.81,Light rain in the evening and overnight.,rain,0.82,0.84,10.87,5.83
+2018-01-31,1.49,6.22,Possible drizzle in the morning and afternoon.,rain,0.66,0.88,8.45,5.8
+2018-02-01,2.26,6.76,Clear throughout the day.,clear-day,0.2,0.78,9.92,6.22
+2018-02-02,2.33,7.32,Clear throughout the day.,partly-cloudy-day,0.42,0.8,4.01,6.22
+2018-02-03,2.39,5.76,Clear throughout the day.,partly-cloudy-day,0.57,0.89,2.66,5.83
+2018-02-04,-0.9,7.11,Foggy overnight.,partly-cloudy-day,0.56,0.9,1.2,5.37
+2018-02-05,-0.79,3.26,Foggy overnight.,partly-cloudy-day,0.81,0.84,3.37,5.22
+2018-02-06,-1.38,3.99,Possible drizzle in the afternoon.,rain,0.27,0.8,4.84,5.82
+2018-02-07,-4.75,4.39,Possible drizzle overnight.,partly-cloudy-day,0.39,0.86,4.43,5.5
+2018-02-08,4.23,7.55,Light rain overnight.,rain,0.61,0.9,6.21,5.35
+2018-02-09,0.77,5.07,Light rain in the morning.,rain,0.33,0.83,5.63,6.15
+2018-02-10,1.91,8.31,"Possible light rain until morning, starting again in the evening.",rain,0.69,0.88,7.68,5.41
+2018-02-11,-0.05,3.44,Partly cloudy throughout the day.,rain,0.34,0.86,6.75,6.01
+2018-02-12,-0.18,4.22,Possible drizzle in the morning and afternoon.,rain,0.6,0.86,6.83,5.97
+2018-02-13,0.71,5.3,Possible drizzle in the morning.,rain,0.45,0.81,7.23,6.07
+2018-02-14,0.42,5.77,Mostly cloudy throughout the day.,partly-cloudy-day,0.46,0.81,9.29,6.2
+2018-02-15,2.33,5.43,Possible light rain in the evening.,rain,0.55,0.79,11.63,6.19
+2018-02-16,2.51,7.65,Possible light rain overnight.,rain,0.51,0.82,8.61,6.11
+2018-02-17,2.57,7.58,Mostly cloudy throughout the day.,rain,0.56,0.88,5.37,6.19
+2018-02-18,1.33,6.77,Light rain starting in the afternoon.,rain,0.63,0.93,2.62,4.23
+2018-02-19,6.02,11.27,Possible drizzle in the morning.,rain,0.91,0.93,3.75,4.05
+2018-02-20,2.04,10.0,Clear throughout the day.,clear-day,0.25,0.79,5.57,6.2
+2018-02-21,1.13,8.02,Clear throughout the day.,clear-day,0.08,0.81,1.11,6.22
+2018-02-22,0.69,6.85,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.79,4.66,6.19
+2018-02-23,0.21,5.97,Clear throughout the day.,clear-day,0.26,0.73,5.63,5.67
+2018-02-24,-1.36,6.87,Clear throughout the day.,clear-day,0.04,0.69,5.16,6.22
+2018-02-25,-1.31,7.07,Clear throughout the day.,clear-day,0.01,0.74,5.16,6.22
+2018-02-26,-2.89,3.88,Mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.71,4.71,6.22
+2018-02-27,-4.13,2.86,Foggy in the evening and overnight.,partly-cloudy-day,0.43,0.76,6.38,5.69
+2018-02-28,-4.7,-1.39,Foggy throughout the day.,partly-cloudy-day,0.78,0.83,9.33,2.97
+2018-03-01,-4.52,0.02,Foggy in the morning and overnight.,partly-cloudy-day,0.67,0.82,12.44,3.9
+2018-03-02,-1.19,1.22,Overcast throughout the day.,cloudy,0.9,0.78,13.72,5.99
+2018-03-03,0.12,1.81,Overcast throughout the day.,cloudy,0.89,0.77,8.73,6.13
+2018-03-04,0.19,2.67,Possible drizzle in the evening.,rain,0.91,0.84,8.26,4.82
+2018-03-05,2.26,4.02,Drizzle in the evening and overnight.,rain,0.91,0.92,6.45,4.81
+2018-03-06,1.46,3.98,Possible light rain in the morning.,rain,0.94,0.92,6.02,4.92
+2018-03-07,1.43,6.37,Possible drizzle in the afternoon.,rain,0.77,0.89,3.65,4.93
+2018-03-08,-0.57,6.66,Foggy overnight.,partly-cloudy-day,0.46,0.86,4.7,6.21
+2018-03-09,1.52,8.63,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.77,6.11,6.03
+2018-03-10,1.72,5.26,Light rain until evening.,rain,0.82,0.88,8.24,5.12
+2018-03-11,4.12,10.05,Foggy in the morning.,partly-cloudy-day,0.7,0.91,2.53,4.39
+2018-03-12,4.17,8.15,Overcast throughout the day.,cloudy,0.91,0.85,2.54,6.01
+2018-03-13,3.23,9.67,Partly cloudy throughout the day.,partly-cloudy-day,0.59,0.79,2.97,5.39
+2018-03-14,2.08,10.57,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.73,7.86,6.22
+2018-03-15,4.7,8.05,Overcast throughout the day.,partly-cloudy-day,0.71,0.81,10.98,6.07
+2018-03-16,3.44,5.72,Overcast throughout the day.,cloudy,0.91,0.81,12.32,6.22
+2018-03-17,-1.73,3.83,Foggy overnight.,partly-cloudy-day,0.73,0.68,11.76,5.96
+2018-03-18,-2.32,2.28,Foggy in the morning.,partly-cloudy-day,0.72,0.73,11.04,6.01
+2018-03-19,-1.42,7.02,Clear throughout the day.,clear-day,0.23,0.65,6.41,6.22
+2018-03-20,-3.17,10.26,Clear throughout the day.,clear-day,0.01,0.66,3.1,6.22
+2018-03-21,1.0,9.09,Overcast throughout the day.,cloudy,0.88,0.83,7.45,5.76
+2018-03-22,6.11,8.88,Possible light rain overnight.,cloudy,0.93,0.81,7.41,5.77
+2018-03-23,3.47,9.06,Possible light rain in the morning.,rain,0.7,0.84,7.22,6.0
+2018-03-24,0.28,10.82,Partly cloudy throughout the day.,clear-day,0.28,0.78,3.89,6.03
+2018-03-25,2.78,9.99,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.77,5.51,6.21
+2018-03-26,-0.54,9.95,Possible light rain overnight.,partly-cloudy-day,0.35,0.75,3.86,6.21
+2018-03-27,4.34,8.81,Possible light rain in the morning.,rain,0.84,0.89,7.12,4.95
+2018-03-28,1.09,7.27,Foggy overnight.,partly-cloudy-day,0.59,0.84,4.95,6.1
+2018-03-29,-1.59,9.01,Foggy in the morning.,partly-cloudy-day,0.41,0.78,5.19,5.17
+2018-03-30,1.79,6.09,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.81,8.31,6.22
+2018-03-31,2.62,5.1,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.82,8.44,6.06
+2018-04-01,1.12,7.22,Clear throughout the day.,partly-cloudy-day,0.42,0.7,2.82,6.22
+2018-04-02,1.31,4.63,Drizzle in the evening and overnight.,rain,0.61,0.82,10.55,6.01
+2018-04-03,1.67,4.64,Light rain throughout the day.,rain,0.96,0.91,7.41,5.4
+2018-04-04,0.41,3.36,Possible drizzle until evening.,rain,0.82,0.92,6.12,4.62
+2018-04-05,-1.83,9.98,Partly cloudy throughout the day.,clear-day,0.27,0.76,4.75,6.21
+2018-04-06,4.83,11.67,Possible drizzle in the afternoon and evening.,rain,0.42,0.73,7.86,6.2
+2018-04-07,7.27,12.07,Possible drizzle in the afternoon and evening.,rain,0.62,0.84,4.51,5.92
+2018-04-08,5.48,11.56,Mostly cloudy throughout the day.,partly-cloudy-day,0.7,0.88,1.88,5.58
+2018-04-09,6.42,13.41,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.86,3.29,5.1
+2018-04-10,5.51,7.29,Possible drizzle in the afternoon.,rain,0.83,0.89,10.07,6.22
+2018-04-11,5.33,8.08,Overcast throughout the day.,cloudy,0.95,0.88,8.17,6.01
+2018-04-12,5.2,9.32,Overcast throughout the day.,cloudy,0.92,0.84,9.05,5.72
+2018-04-13,5.33,7.71,Light rain in the morning.,rain,0.96,0.92,4.19,4.59
+2018-04-14,6.34,13.05,Foggy in the morning.,partly-cloudy-day,0.79,0.85,3.01,4.2
+2018-04-15,6.19,15.05,Clear throughout the day.,partly-cloudy-day,0.32,0.8,6.15,5.96
+2018-04-16,8.55,13.34,Mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.78,9.01,5.39
+2018-04-17,9.32,14.97,Possible drizzle in the morning.,rain,0.47,0.77,14.12,6.19
+2018-04-18,10.35,16.55,Mostly cloudy throughout the day.,partly-cloudy-day,0.45,0.81,7.61,6.12
+2018-04-19,10.33,17.36,Foggy overnight.,partly-cloudy-day,0.43,0.76,5.15,6.21
+2018-04-20,7.97,14.58,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.76,5.47,5.6
+2018-04-21,4.96,18.86,Partly cloudy throughout the day.,clear-day,0.28,0.66,3.31,6.22
+2018-04-22,8.65,12.55,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.77,6.42,6.08
+2018-04-23,8.21,11.48,Possible drizzle overnight.,partly-cloudy-day,0.83,0.83,11.23,5.77
+2018-04-24,6.64,12.81,Possible drizzle overnight.,rain,0.71,0.79,8.48,6.09
+2018-04-25,6.59,10.91,Possible drizzle in the afternoon.,rain,0.67,0.8,8.37,6.13
+2018-04-26,5.63,11.44,Possible drizzle in the morning and afternoon.,rain,0.62,0.78,10.24,6.2
+2018-04-27,3.36,13.33,Possible light rain in the evening.,rain,0.35,0.7,4.41,6.22
+2018-04-28,1.51,10.89,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.77,3.2,6.22
+2018-04-29,2.24,11.11,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.72,3.08,6.22
+2018-04-30,-0.05,13.73,Clear throughout the day.,clear-day,0.15,0.65,3.29,6.12
+2018-05-01,1.53,11.79,Possible drizzle overnight.,partly-cloudy-day,0.58,0.76,7.88,6.08
+2018-05-02,5.42,11.45,Drizzle until evening.,rain,0.53,0.74,9.57,6.14
+2018-05-03,5.42,10.23,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.83,7.47,5.49
+2018-05-04,9.15,14.41,Overcast throughout the day.,cloudy,0.88,0.86,5.79,5.99
+2018-05-05,10.16,15.39,Mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.84,5.64,6.06
+2018-05-06,7.9,19.38,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.78,3.78,5.2
+2018-05-07,9.21,20.0,Clear throughout the day.,clear-day,0.16,0.69,3.62,5.89
+2018-05-08,8.29,13.41,Possible light rain in the afternoon and evening.,rain,0.47,0.8,5.14,6.15
+2018-05-09,5.82,12.17,Drizzle in the evening.,rain,0.7,0.83,6.23,6.0
+2018-05-10,6.5,13.48,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.7,6.9,6.22
+2018-05-11,6.58,14.5,Light rain in the evening and overnight.,rain,0.45,0.72,8.2,6.09
+2018-05-12,4.51,17.35,Drizzle overnight.,rain,0.28,0.68,2.27,5.57
+2018-05-13,8.26,16.54,Light rain in the morning.,rain,0.33,0.73,3.69,6.08
+2018-05-14,5.26,19.55,Clear throughout the day.,clear-day,0.1,0.67,3.01,6.22
+2018-05-15,6.51,17.74,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.78,4.72,6.08
+2018-05-16,3.22,16.97,Clear throughout the day.,clear-day,0.02,0.62,3.44,6.22
+2018-05-17,4.6,17.65,Clear throughout the day.,clear-day,0.03,0.63,2.44,6.22
+2018-05-18,4.88,17.78,Clear throughout the day.,clear-day,0.11,0.67,2.76,6.22
+2018-05-19,6.53,20.13,Clear throughout the day.,clear-day,0.11,0.6,6.92,6.19
+2018-05-20,11.58,17.2,Mostly cloudy throughout the day.,,0.57,0.62,10.5,6.22
+2018-05-21,8.59,16.61,Partly cloudy throughout the day.,,0.47,0.74,8.31,6.22
+2018-05-22,8.72,16.27,Mostly cloudy throughout the day.,,0.78,0.73,11.62,6.22
+2018-05-23,8.05,18.66,Partly cloudy throughout the day.,,0.66,0.74,10.13,6.22
+2018-05-24,7.59,20.67,Partly cloudy throughout the day.,,0.53,0.74,10.18,5.98
+2018-05-25,6.98,22.22,,,0.51,0.67,9.77,5.09
+2018-05-26,10.51,21.29,Clear throughout the day.,,0.28,0.68,12.77,6.22
+2018-05-27,8.62,21.84,Partly cloudy throughout the day.,,0.42,0.72,15.25,6.17
+2018-05-28,8.76,25.34,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.72,6.03,5.33
+2018-05-29,12.43,18.67,Mostly cloudy throughout the day.,,0.69,0.81,11.52,5.7
+2018-05-30,8.77,24.0,Clear throughout the day.,,0.29,0.78,8.65,5.65
+2018-05-31,13.57,21.3,Foggy in the morning.,,0.82,0.85,5.7,5.34
+2018-06-01,10.67,23.63,Foggy in the morning.,,0.35,0.81,4.33,4.87
+2018-06-02,10.96,23.41,Foggy in the morning.,,0.48,0.86,4.74,4.97
+2018-06-03,13.38,21.06,Mostly cloudy throughout the day.,,0.73,0.86,3.69,5.39
+2018-06-04,12.72,20.48,Mostly cloudy throughout the day.,,0.69,0.86,7.09,4.98
+2018-06-05,10.65,21.15,Partly cloudy throughout the day.,,0.54,0.67,9.2,6.22
+2018-06-06,9.31,22.34,Partly cloudy throughout the day.,,0.45,0.66,8.11,6.22
+2018-06-07,8.52,23.87,Clear throughout the day.,,0.25,0.69,6.93,6.01
+2018-06-08,10.59,21.17,Partly cloudy throughout the day.,,0.55,0.71,8.45,6.22
+2018-06-09,10.71,22.87,Partly cloudy throughout the day.,,0.42,0.74,7.66,6.19
+2018-06-10,9.98,20.07,Mostly cloudy throughout the day.,,0.66,0.76,6.39,5.54
+2018-06-11,7.98,19.2,Mostly cloudy throughout the day.,,0.7,0.78,6.2,6.09
+2018-06-12,10.58,20.77,Mostly cloudy throughout the day.,,0.59,0.77,6.36,5.88
+2018-06-13,5.33,16.31,Windy overnight.,,0.61,0.83,11.57,5.68
+2018-06-14,10.45,16.11,Dangerously windy in the morning and afternoon.,,0.77,0.8,24.2,5.77
+2018-06-15,8.85,14.27,Mostly cloudy throughout the day.,,0.63,0.86,12.17,6.01
+2018-06-16,9.85,15.88,Mostly cloudy throughout the day.,,0.65,0.84,9.06,6.06
+2018-06-17,6.94,16.21,Foggy in the evening.,,0.8,0.87,8.6,5.78
+2018-06-18,10.66,16.16,Mostly cloudy throughout the day.,,0.83,0.78,15.4,6.22
+2018-06-19,9.65,15.15,Mostly cloudy throughout the day.,,0.61,0.72,12.89,6.2
+2018-06-20,8.72,16.02,Mostly cloudy throughout the day.,,0.75,0.8,11.33,5.32
+2018-06-21,8.52,16.08,Partly cloudy throughout the day.,,0.35,0.64,14.54,6.22
+2018-06-22,6.21,17.13,Clear throughout the day.,,0.27,0.72,10.26,6.22
+2018-06-23,7.58,17.07,Partly cloudy throughout the day.,,0.4,0.74,10.38,6.22
+2018-06-24,6.38,20.82,Clear throughout the day.,,0.19,0.68,8.65,6.22
+2018-06-25,6.72,23.67,Clear throughout the day.,,0.19,0.63,4.74,6.22
+2018-06-26,9.26,25.67,Clear throughout the day.,,0.19,0.65,4.14,6.22
+2018-06-27,10.71,28.78,,,,0.68,6.33,5.75
+2018-06-28,12.48,30.36,,,,0.61,4.82,6.22
+2018-06-29,12.98,24.78,,,,0.59,9.93,6.22
+2018-06-30,12.44,25.05,,,0.84,0.66,10.97,6.22
+2018-07-01,11.45,25.7,Clear throughout the day.,,0.19,0.6,7.32,6.22
+2018-07-02,11.22,21.48,Partly cloudy throughout the day.,,0.39,0.7,11.66,6.22
+2018-07-03,10.47,24.67,Partly cloudy throughout the day.,,0.35,0.68,8.29,5.98
+2018-07-04,11.85,25.66,Clear throughout the day.,,0.2,0.63,7.1,6.22
+2018-07-05,11.55,21.62,Partly cloudy throughout the day.,,0.35,0.67,8.7,6.22
+2018-07-06,9.5,20.86,Clear throughout the day.,,0.27,0.67,7.72,6.22
+2018-07-07,7.7,23.01,Partly cloudy throughout the day.,,0.6,0.69,5.34,6.08
+2018-07-08,15.72,22.26,Mostly cloudy throughout the day.,,0.78,0.77,7.59,6.22
+2018-07-09,14.18,21.82,Partly cloudy throughout the day.,,0.61,0.67,7.53,6.22
+2018-07-10,13.16,20.75,Foggy overnight.,,0.7,0.69,6.06,6.2
+2018-07-11,14.52,20.81,Foggy in the morning.,,0.72,0.84,5.51,5.28
+2018-07-12,14.51,21.89,Partly cloudy throughout the day.,,0.6,0.72,6.43,6.19
+2018-07-13,13.72,21.94,Mostly cloudy throughout the day.,,0.75,0.76,6.04,6.22
+2018-07-14,10.36,23.19,Partly cloudy throughout the day.,,0.49,0.75,10.08,5.72
+2018-07-15,16.51,19.14,Overcast throughout the day.,,0.93,0.86,6.87,5.92
+2018-07-16,13.41,20.17,Mostly cloudy throughout the day.,,0.77,0.78,7.94,6.2
+2018-07-17,12.65,18.17,Mostly cloudy throughout the day.,,0.64,0.73,6.83,6.22
+2018-07-18,10.83,20.88,Partly cloudy throughout the day.,,0.54,0.73,4.51,5.91
+2018-07-19,9.12,20.08,Partly cloudy throughout the day.,,0.29,0.66,6.75,6.02
+2018-07-20,12.52,18.86,Overcast throughout the day.,,0.89,0.91,6.55,5.71
+2018-07-21,14.37,18.92,Mostly cloudy throughout the day.,,0.88,0.84,7.8,6.08
+2018-07-22,14.51,19.14,Overcast throughout the day.,,0.95,0.92,8.9,5.86
+2018-07-23,14.59,20.31,Foggy in the evening.,,0.89,0.9,8.38,5.71
+2018-07-24,11.58,19.14,Mostly cloudy throughout the day.,,0.64,0.79,5.55,6.11
+2018-07-25,9.45,23.04,Clear throughout the day.,,0.33,0.69,6.77,6.22
+2018-07-26,7.47,26.09,Clear throughout the day.,,0.23,0.61,7.28,6.22
+2018-07-27,13.87,24.42,Mostly cloudy throughout the day.,,0.6,0.71,8.26,5.95
+2018-07-28,10.56,18.96,Windy in the evening.,,0.68,0.87,13.26,5.69
+2018-07-29,8.89,16.9,Foggy in the afternoon and evening.,,0.66,0.89,9.53,5.47
+2018-07-30,8.83,19.14,Partly cloudy throughout the day.,,0.52,0.77,8.86,6.22
+2018-07-31,10.57,18.21,Mostly cloudy throughout the day.,,0.61,0.81,12.55,6.21
+2018-08-01,12.52,18.02,Foggy overnight.,,0.6,0.88,9.65,5.8
+2018-08-02,14.73,21.04,Overcast throughout the day.,,0.94,0.93,7.16,4.85
+2018-08-03,14.51,19.15,Mostly cloudy throughout the day.,,0.88,0.87,7.93,5.76
+2018-08-04,12.81,19.14,Mostly cloudy throughout the day.,,0.72,0.81,9.48,6.2
+2018-08-05,11.58,19.36,Mostly cloudy throughout the day.,,0.67,0.81,8.29,6.22
+2018-08-06,13.73,19.31,Mostly cloudy throughout the day.,,0.78,0.88,9.9,5.9
+2018-08-07,12.72,17.21,Mostly cloudy throughout the day.,,0.74,0.81,6.65,6.21
+2018-08-08,9.7,17.06,Partly cloudy throughout the day.,,0.54,0.77,9.35,6.15
+2018-08-09,6.74,18.22,Partly cloudy throughout the day.,,0.39,0.78,9.35,6.19
+2018-08-10,10.0,18.01,Partly cloudy throughout the day.,,0.42,0.76,8.7,6.22
+2018-08-11,5.71,19.36,Partly cloudy throughout the day.,,0.46,0.73,6.86,6.22
+2018-08-12,12.66,15.71,Overcast throughout the day.,,0.96,0.94,11.73,4.87
+2018-08-13,13.62,18.88,Overcast throughout the day.,,0.96,0.88,5.68,6.13
+2018-08-14,12.87,17.32,Overcast throughout the day.,,0.9,0.93,9.45,5.81
+2018-08-15,14.66,19.27,Mostly cloudy throughout the day.,,0.76,0.9,11.46,5.71
+2018-08-16,9.84,17.15,Partly cloudy throughout the day.,,0.59,0.86,13.21,6.09
+2018-08-17,10.72,15.28,Overcast throughout the day.,,0.81,0.92,15.4,5.15
+2018-08-18,13.66,16.06,Foggy in the morning.,,0.93,0.9,12.18,5.44
+2018-08-19,10.72,19.14,Foggy in the morning and overnight.,,0.83,0.89,6.55,5.3
+2018-08-20,8.01,18.08,Foggy in the morning.,,0.74,0.85,2.66,5.99
+2018-08-21,13.45,20.0,Foggy in the morning.,,0.94,0.88,6.29,5.81
+2018-08-22,10.0,18.14,Mostly cloudy throughout the day.,,0.77,0.83,10.75,5.9
+2018-08-23,10.66,15.31,Mostly cloudy throughout the day.,,0.73,0.83,11.42,6.04
+2018-08-24,8.15,14.92,Partly cloudy throughout the day.,,0.48,0.83,11.55,6.22
+2018-08-25,5.07,17.07,Partly cloudy throughout the day.,,0.37,0.74,7.94,6.22
+2018-08-26,9.76,13.14,Mostly cloudy throughout the day.,,0.77,0.91,6.79,5.68
+2018-08-27,9.98,17.94,Mostly cloudy throughout the day.,,0.8,0.89,10.1,5.95
+2018-08-28,11.45,17.31,Mostly cloudy throughout the day.,,0.85,0.81,10.75,6.22
+2018-08-29,8.09,17.02,Partly cloudy throughout the day.,,0.58,0.8,9.27,6.18
+2018-08-30,6.69,16.21,Foggy overnight.,,0.47,0.82,4.25,6.08
+2018-08-31,3.07,20.0,Foggy in the morning.,,0.38,0.77,7.27,5.71
+2018-09-01,13.01,17.86,Foggy in the morning.,,0.92,0.91,6.89,4.97
+2018-09-02,12.38,19.89,Overcast throughout the day.,,0.87,0.94,8.03,6.01
+2018-09-03,9.66,17.0,Mostly cloudy throughout the day.,,0.69,0.82,7.5,6.04
+2018-09-04,8.18,16.9,Partly cloudy throughout the day.,,0.55,0.82,4.46,6.22
+2018-09-05,5.7,17.15,Mostly cloudy throughout the day.,,0.52,0.87,7.92,6.1
+2018-09-06,6.56,15.0,Partly cloudy throughout the day.,,0.51,0.83,6.06,6.2
+2018-09-07,4.57,18.01,Partly cloudy throughout the day.,,0.57,0.81,9.23,6.22
+2018-09-08,6.26,17.13,Mostly cloudy throughout the day.,,0.72,0.87,5.75,6.13
+2018-09-09,10.86,16.14,Mostly cloudy throughout the day.,,0.69,0.85,13.64,5.46
+2018-09-10,10.65,14.36,Mostly cloudy throughout the day.,,0.82,0.9,16.59,5.69
+2018-09-11,11.58,16.0,Mostly cloudy throughout the day.,,0.63,0.81,17.41,6.14
+2018-09-12,9.57,15.58,Partly cloudy throughout the day.,,0.47,0.76,14.18,6.18
+2018-09-13,9.86,15.0,Mostly cloudy throughout the day.,,0.67,0.81,16.62,6.04
+2018-09-14,6.77,13.47,Mostly cloudy throughout the day.,,0.73,0.9,11.0,6.11
+2018-09-15,7.09,14.34,Mostly cloudy throughout the day.,,0.66,0.88,8.92,6.22
+2018-09-16,11.61,16.15,Windy in the morning.,,0.72,0.85,17.06,5.95
+2018-09-17,10.85,18.23,Mostly cloudy throughout the day.,,0.72,0.85,10.55,6.14
+2018-09-18,13.73,17.2,Overcast throughout the day.,,0.84,0.88,11.96,4.99
+2018-09-19,9.8,15.41,Dangerously windy starting in the afternoon.,,0.63,0.76,24.84,5.89
+2018-09-20,7.59,13.18,Partly cloudy throughout the day.,,0.51,0.78,16.53,6.2
+2018-09-21,6.58,13.14,Partly cloudy throughout the day.,,0.58,0.84,10.69,6.08
+2018-09-22,3.01,13.19,Partly cloudy throughout the day.,,0.43,0.76,10.27,6.22
+2018-09-23,0.82,14.0,Partly cloudy throughout the day.,,0.44,0.8,7.41,6.22
+2018-09-24,4.42,14.17,Partly cloudy throughout the day.,,0.35,0.79,8.63,6.22
+2018-09-25,5.81,14.14,Windy overnight.,,0.51,0.85,13.22,5.83
+2018-09-26,12.66,16.43,Overcast throughout the day.,,0.92,0.95,19.87,4.42
+2018-09-27,5.87,16.28,Partly cloudy throughout the day.,,0.52,0.8,15.59,6.18
+2018-09-28,1.58,14.0,Partly cloudy throughout the day.,,0.51,0.81,5.69,6.22
+2018-09-29,7.82,11.35,Overcast throughout the day.,,0.91,0.83,15.71,5.85
+2018-09-30,4.92,12.01,Mostly cloudy throughout the day.,,0.52,0.78,12.83,6.22
+2018-10-01,2.99,12.27,Mostly cloudy throughout the day.,,0.64,0.89,8.89,5.69
+2018-10-02,8.87,14.01,Mostly cloudy throughout the day.,,0.78,0.73,17.51,6.16
+2018-10-03,8.71,14.17,Overcast throughout the day.,,0.83,0.92,11.09,5.74
+2018-10-04,7.73,15.4,Mostly cloudy throughout the day.,,0.74,0.91,15.12,5.74
+2018-10-05,3.87,12.15,Partly cloudy throughout the day.,,0.38,0.82,4.43,6.22
+2018-10-06,1.61,12.1,Partly cloudy throughout the day.,,0.26,0.84,5.11,6.19
+2018-10-07,1.57,13.29,Windy starting in the afternoon.,,0.68,0.92,17.46,4.95
+2018-10-08,12.58,14.21,"Dangerously windy until morning, starting again in the evening.",,0.87,0.92,23.66,4.86
+2018-10-09,12.53,15.2,Dangerously windy in the morning.,,0.84,0.91,21.2,5.2
+2018-10-10,12.47,20.14,,,0.66,0.81,10.53,6.22
+2018-10-11,6.64,17.01,Mostly cloudy throughout the day.,,0.5,0.87,10.54,5.3
+2018-10-12,7.0,16.36,Windy in the morning and afternoon.,,0.52,0.87,17.71,5.82
+2018-10-13,9.72,13.32,Foggy in the afternoon and evening.,,0.78,0.94,7.39,4.74
+2018-10-14,3.73,14.03,Partly cloudy throughout the day.,,0.53,0.85,4.37,6.13
+2018-10-15,1.85,14.25,Clear throughout the day.,,0.22,0.84,2.47,6.08
+2018-10-16,5.59,14.14,Overcast throughout the day.,,0.72,0.91,9.96,5.88
+2018-10-17,5.43,12.28,Foggy overnight.,,0.43,0.85,8.17,6.16
+2018-10-18,2.4,12.25,Foggy in the morning.,,0.6,0.9,3.9,6.03
+2018-10-19,5.73,12.33,Foggy overnight.,,0.65,0.89,8.63,5.99
+2018-10-20,7.14,15.15,Overcast throughout the day.,,0.93,0.94,13.9,5.19
+2018-10-21,8.59,15.28,Mostly cloudy throughout the day.,,0.82,0.84,14.91,5.79
+2018-10-22,6.13,11.41,Mostly cloudy throughout the day.,,0.78,0.8,15.31,6.21
+2018-10-23,10.51,13.16,Windy in the morning.,,0.9,0.87,19.6,5.7
+2018-10-24,10.51,12.21,Overcast throughout the day.,,0.93,0.86,14.52,6.22
+2018-10-25,7.73,13.14,Mostly cloudy throughout the day.,,0.81,0.9,14.29,6.03
+2018-10-26,3.14,9.27,Partly cloudy throughout the day.,,0.48,0.76,9.39,6.22
+2018-10-27,0.64,7.21,Clear throughout the day.,,0.26,0.67,7.15,6.22
+2018-10-28,-2.98,10.13,Partly cloudy throughout the day.,,0.23,0.76,3.06,6.22
+2018-10-29,-4.85,8.26,Clear throughout the day.,,0.21,0.82,6.79,6.12
+2018-10-30,-1.14,7.13,,,0.83,0.87,3.62,6.22
+2018-10-31,2.66,10.31,Foggy overnight.,,0.79,0.91,5.68,5.95
+2018-11-01,0.02,8.3,Foggy in the morning.,,0.59,0.91,5.6,4.75
+2018-11-02,0.03,10.31,Clear throughout the day.,,0.33,0.83,7.1,6.22
+2018-11-03,8.62,14.21,Windy in the morning and afternoon.,,0.83,0.91,20.89,5.12
+2018-11-04,7.71,13.14,Partly cloudy throughout the day.,,0.44,0.83,10.53,6.17
+2018-11-05,7.73,11.2,Mostly cloudy throughout the day.,,0.83,0.94,4.35,3.88
+2018-11-06,8.01,13.22,Mostly cloudy throughout the day.,,0.81,0.89,10.28,4.78
+2018-11-07,6.73,13.28,Mostly cloudy throughout the day.,,0.76,0.9,10.55,6.21
+2018-11-08,3.01,11.25,Partly cloudy throughout the day.,,0.53,0.87,9.14,6.2
+2018-11-09,7.58,11.19,Windy in the evening.,,0.8,0.86,15.51,6.16
+2018-11-10,3.51,11.1,Foggy in the evening and overnight.,,0.71,0.88,7.05,5.8
+2018-11-11,3.01,8.42,Foggy in the morning.,,0.77,0.94,5.61,5.47
+2018-11-12,6.86,11.32,Partly cloudy throughout the day.,,0.64,0.88,7.75,6.22
+2018-11-13,7.72,11.28,Partly cloudy throughout the day.,,0.71,0.87,12.56,6.05
+2018-11-14,10.54,14.06,Overcast throughout the day.,,0.93,0.92,15.01,4.94
+2018-11-15,9.38,13.33,Mostly cloudy throughout the day.,,0.84,0.85,12.62,6.08
+2018-11-16,3.73,13.33,Overcast throughout the day.,,0.73,0.93,5.25,6.05
+2018-11-17,6.38,11.18,Partly cloudy throughout the day.,,0.54,0.87,12.42,5.31
+2018-11-18,4.45,10.47,Partly cloudy throughout the day.,,0.31,0.88,9.47,6.02
+2018-11-19,3.31,8.3,Overcast throughout the day.,,0.82,0.84,10.72,6.11
+2018-11-20,4.31,7.26,Possible drizzle overnight.,,0.68,0.84,14.25,6.2
+2018-11-21,3.06,7.82,Light rain in the morning.,rain,0.63,0.8,13.1,5.72
+2018-11-22,-2.01,6.91,Drizzle in the evening and overnight.,rain,0.64,0.91,2.77,4.7
+2018-11-23,3.7,8.71,Drizzle in the morning.,rain,0.68,0.93,5.6,5.01
+2018-11-24,-1.65,6.87,Foggy in the morning.,partly-cloudy-day,0.71,0.97,1.7,3.82
+2018-11-25,2.5,6.77,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.9,7.46,5.95
+2018-11-26,-2.08,6.73,Foggy overnight.,rain,0.66,0.91,4.56,6.02
+2018-11-27,0.04,7.73,Light rain in the afternoon and evening.,rain,0.61,0.87,11.01,5.11
+2018-11-28,5.67,14.56,Rain throughout the day.,rain,0.76,0.88,17.81,5.21
+2018-11-29,5.41,10.24,Rain throughout the day.,rain,0.75,0.87,15.04,6.33
+2018-11-30,3.24,8.54,Light rain throughout the day.,rain,0.69,0.85,20.12,6.01
+2018-12-01,1.1,6.98,Possible drizzle in the morning and afternoon.,rain,0.75,0.94,4.37,5.05
+2018-12-02,4.58,6.77,Light rain throughout the day.,rain,0.92,0.99,2.84,2.92
+2018-12-03,-1.51,8.37,Foggy overnight.,rain,0.4,0.88,5.83,6.33
+2018-12-04,-3.24,5.2,Possible drizzle in the afternoon.,rain,0.53,0.97,2.5,5.49
+2018-12-05,-2.76,5.53,Light rain in the morning and afternoon.,rain,0.86,0.97,5.67,3.04
+2018-12-06,4.33,11.51,"Light rain until afternoon, starting again overnight.",rain,0.75,0.92,11.16,3.95
+2018-12-07,5.73,10.81,Light rain throughout the day.,rain,0.84,0.86,20.37,6.12
+2018-12-08,3.65,9.5,Possible drizzle until evening.,rain,0.76,0.86,13.39,6.13
+2018-12-09,-0.99,7.6,Foggy overnight.,partly-cloudy-day,0.33,0.89,4.64,6.5
+2018-12-10,-2.87,4.36,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.94,2.69,5.67
+2018-12-11,3.61,8.23,Light rain in the evening and overnight.,rain,0.93,0.92,5.35,5.33
+2018-12-12,4.59,8.37,Overcast throughout the day.,rain,0.88,0.81,9.33,4.74
+2018-12-13,1.3,5.01,Clear throughout the day.,partly-cloudy-day,0.43,0.71,11.01,6.22
+2018-12-14,-1.93,3.53,Clear throughout the day.,clear-day,0.28,0.79,6.83,6.21
+2018-12-15,0.52,2.61,Rain starting in the afternoon.,rain,0.86,0.84,11.85,4.48
+2018-12-16,0.88,7.18,"Possible drizzle until afternoon, starting again overnight.",rain,0.68,0.88,8.06,5.8
+2018-12-17,2.22,11.32,Possible drizzle in the evening and overnight.,rain,0.67,0.92,6.4,5.08
+2018-12-18,6.24,12.16,Light rain until evening.,rain,0.81,0.84,14.22,5.13
+2018-12-19,2.25,8.55,Possible drizzle in the evening and overnight.,rain,0.39,0.87,6.05,4.67
+2018-12-20,4.43,8.2,Light rain throughout the day.,rain,0.81,0.94,7.43,5.37
+2018-12-21,4.99,8.29,"Possible drizzle until afternoon, starting again overnight.",rain,0.82,0.95,6.8,4.99
+2018-12-22,5.64,8.47,Drizzle in the morning and afternoon.,rain,0.76,0.91,7.65,8.04
+2018-12-23,-1.37,5.61,Foggy throughout the day.,partly-cloudy-day,0.67,0.98,1.33,3.19
+2018-12-24,-3.36,0.18,Foggy throughout the day.,fog,0.86,0.99,0.14,1.63
+2018-12-25,-2.24,9.43,Foggy until evening.,rain,0.92,1.0,1.84,1.23
+2018-12-26,8.79,10.66,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.93,8.31,5.15
+2018-12-27,8.63,10.94,Overcast throughout the day.,cloudy,0.93,0.94,8.44,4.84
+2018-12-28,3.94,10.49,Light rain in the morning and overnight.,rain,0.74,0.89,10.14,5.24
+2018-12-29,6.12,12.65,Light rain in the morning and overnight.,rain,0.71,0.84,15.54,5.82
+2018-12-30,6.77,12.31,Possible drizzle in the morning.,rain,0.93,0.92,11.08,5.73
+2018-12-31,8.73,11.81,Windy in the afternoon.,partly-cloudy-day,0.87,0.87,16.96,5.98
+2019-01-01,-2.31,11.67,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.8,6.07,6.22
+2019-01-02,-6.39,0.81,Overcast throughout the day.,partly-cloudy-day,0.66,0.96,0.73,5.76
+2019-01-03,0.08,4.16,Overcast throughout the day.,cloudy,0.95,0.9,1.9,6.28
+2019-01-04,3.27,7.12,Foggy in the morning.,cloudy,0.95,0.87,5.0,5.41
+2019-01-05,2.78,6.06,Foggy overnight.,cloudy,0.95,0.84,4.47,5.83
+2019-01-06,4.84,9.79,Possible light rain starting in the afternoon.,rain,0.97,0.99,2.55,0.19
+2019-01-07,7.93,12.2,Possible drizzle in the morning.,rain,0.8,0.82,19.87,5.17
+2019-01-08,2.2,8.44,Clear throughout the day.,clear-day,0.27,0.74,8.26,6.22
+2019-01-09,-3.44,5.36,Foggy in the morning and overnight.,partly-cloudy-day,0.42,0.92,1.9,5.81
+2019-01-10,4.46,9.72,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.92,5.21,5.2
+2019-01-11,5.54,10.25,Possible light rain overnight.,cloudy,0.94,0.88,9.41,6.18
+2019-01-12,7.92,11.49,Possible drizzle starting in the afternoon.,rain,0.85,0.84,17.48,5.79
+2019-01-13,6.65,10.73,Possible drizzle in the morning and afternoon.,rain,0.69,0.83,18.55,6.07
+2019-01-14,4.75,9.48,Possible drizzle in the evening and overnight.,rain,0.76,0.85,9.33,6.29
+2019-01-15,7.87,10.66,Light rain in the morning and overnight.,rain,0.83,0.88,20.03,5.5
+2019-01-16,1.21,9.62,Light rain in the morning.,rain,0.64,0.85,14.15,5.75
+2019-01-17,-2.88,4.5,Clear throughout the day.,partly-cloudy-day,0.42,0.8,5.63,6.24
+2019-01-18,-3.79,3.23,Foggy in the evening and overnight.,rain,0.78,0.82,6.87,5.49
+2019-01-19,0.7,4.42,Overcast throughout the day.,rain,0.94,0.9,5.31,4.54
+2019-01-20,-1.54,6.35,Foggy in the morning and afternoon.,rain,0.69,0.91,4.26,4.66
+2019-01-21,-3.56,5.29,Light rain starting in the afternoon.,rain,0.66,0.89,7.55,5.96
+2019-01-22,-4.47,2.73,Partly cloudy throughout the day.,rain,0.53,0.93,4.91,6.23
+2019-01-23,-7.72,1.61,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.46,0.95,1.79,5.19
+2019-01-24,-3.51,3.93,Drizzle in the evening and overnight.,rain,0.81,0.99,2.23,1.52
+2019-01-25,3.12,10.32,Light rain throughout the day.,rain,0.96,0.93,12.14,5.79
+2019-01-26,4.84,10.67,Light rain throughout the day.,rain,0.86,0.9,15.51,5.5
+2019-01-27,0.63,6.48,Possible drizzle and windy in the morning.,rain,0.28,0.73,13.79,6.05
+2019-01-28,-5.39,5.21,Possible light rain overnight.,partly-cloudy-day,0.41,0.86,5.47,6.47
+2019-01-29,-2.15,3.48,Possible light rain in the morning and afternoon.,rain,0.69,0.92,5.04,5.35
+2019-01-30,-3.46,4.62,Foggy overnight.,partly-cloudy-day,0.55,0.92,4.67,5.54
+2019-01-31,-7.91,0.53,Foggy in the morning and overnight.,partly-cloudy-day,0.61,0.95,2.84,3.35
+2019-02-01,-8.67,3.13,Foggy in the morning and overnight.,clear-day,0.28,0.89,2.0,5.03
+2019-02-02,-4.71,4.31,Clear throughout the day.,clear-day,0.19,0.72,5.02,5.42
+2019-02-03,-5.13,6.36,Light rain throughout the day.,rain,0.72,0.9,6.87,5.77
+2019-02-04,-1.3,8.92,Light rain in the morning.,rain,0.65,0.83,11.68,5.99
+2019-02-05,-2.33,6.92,Light rain starting in the afternoon.,rain,0.62,0.96,5.4,4.2
+2019-02-06,2.24,8.61,"Drizzle until morning, starting again in the evening.",rain,0.6,0.87,8.93,6.2
+2019-02-07,2.42,8.26,Light rain throughout the day.,rain,0.69,0.9,6.88,5.43
+2019-02-08,4.59,10.98,Light rain and dangerously windy throughout the day.,rain,0.87,0.85,21.84,5.94
+2019-02-09,2.26,9.35,Light rain in the morning and afternoon.,rain,0.72,0.78,19.18,5.83
+2019-02-10,0.0,7.41,Partly cloudy throughout the day.,rain,0.56,0.87,6.8,6.46
+2019-02-11,-2.46,7.72,Foggy in the morning.,clear-day,0.31,0.89,4.01,6.45
+2019-02-12,5.49,11.71,Possible drizzle in the morning and afternoon.,rain,0.77,0.89,14.35,5.35
+2019-02-13,6.22,11.53,Possible drizzle in the morning.,rain,0.86,0.85,14.31,5.58
+2019-02-14,0.88,11.42,Foggy overnight.,partly-cloudy-day,0.76,0.83,9.58,6.24
+2019-02-15,-2.57,12.5,Possible drizzle overnight.,rain,0.55,0.87,6.07,4.52
+2019-02-16,8.88,11.71,Mostly cloudy throughout the day.,rain,0.83,0.79,14.07,6.0
+2019-02-17,8.8,12.61,Possible light rain in the morning and afternoon.,rain,0.74,0.78,16.95,5.77
+2019-02-18,6.09,9.62,Possible light rain until evening.,rain,0.79,0.81,18.38,6.53
+2019-02-19,4.99,8.85,"Light rain until morning, starting again in the evening.",rain,0.76,0.88,9.19,6.14
+2019-02-20,8.9,12.45,Drizzle until evening.,rain,0.94,0.92,15.07,5.78
+2019-02-21,9.11,13.91,Overcast throughout the day.,cloudy,0.9,0.87,7.27,6.21
+2019-02-22,8.78,15.74,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.67,6.22,6.55
+2019-02-23,6.54,14.68,Foggy overnight.,partly-cloudy-day,0.49,0.76,9.12,6.74
+2019-02-24,2.87,11.91,Foggy in the morning and overnight.,partly-cloudy-day,0.57,0.93,4.57,3.76
+2019-02-25,1.38,15.01,Foggy in the morning and overnight.,partly-cloudy-day,0.6,0.89,2.2,4.36
+2019-02-26,-1.21,15.12,Foggy in the morning and overnight.,clear-day,0.13,0.85,1.71,4.14
+2019-02-27,-2.57,12.6,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.48,0.9,4.32,3.71
+2019-02-28,3.01,7.41,Foggy in the morning and overnight.,cloudy,0.97,0.97,4.5,3.15
+2019-03-01,2.77,9.76,Light rain overnight.,rain,0.92,0.91,3.44,4.66
+2019-03-02,7.07,10.6,Rain until evening.,rain,0.77,0.88,10.85,5.1
+2019-03-03,4.57,10.05,Light rain starting in the afternoon.,rain,0.79,0.76,17.88,6.62
+2019-03-04,1.41,9.47,Partly cloudy throughout the day.,rain,0.48,0.79,11.55,6.34
+2019-03-05,2.44,7.52,Possible light rain throughout the day.,rain,0.71,0.88,5.08,5.98
+2019-03-06,2.93,9.81,Light rain throughout the day.,rain,0.92,0.95,10.49,3.76
+2019-03-07,1.0,9.2,Light rain in the morning and afternoon.,rain,0.72,0.83,7.31,5.78
+2019-03-08,-2.34,7.6,Light rain until evening.,rain,0.73,0.92,9.98,5.9
+2019-03-09,2.68,6.37,Possible drizzle in the morning and afternoon.,rain,0.59,0.83,13.56,6.23
+2019-03-10,-0.94,6.44,Possible light rain until evening.,rain,0.68,0.91,10.18,6.52
+2019-03-11,0.85,8.53,Light rain in the evening and overnight.,rain,0.58,0.8,13.1,6.33
+2019-03-12,3.21,9.56,Light rain throughout the day.,rain,0.76,0.84,23.67,5.01
+2019-03-13,5.19,10.06,Light rain in the evening and overnight.,rain,0.74,0.79,20.2,6.12
+2019-03-14,5.88,10.5,Light rain in the morning and overnight.,rain,0.72,0.79,17.71,5.64
+2019-03-15,3.82,8.51,Light rain in the morning and overnight.,rain,0.62,0.77,18.61,5.75
+2019-03-16,0.78,5.59,Light rain until evening.,rain,0.82,0.91,8.34,4.26
+2019-03-17,0.62,10.07,Possible drizzle in the morning.,rain,0.53,0.78,10.53,6.78
+2019-03-18,1.68,9.52,Possible drizzle in the morning and afternoon.,rain,0.74,0.89,4.91,5.87
+2019-03-19,4.77,10.57,"Possible drizzle until afternoon, starting again overnight.",rain,0.89,0.93,10.16,5.29
+2019-03-20,8.74,13.59,Drizzle in the morning.,rain,0.88,0.93,12.6,5.05
+2019-03-21,9.92,13.61,Possible drizzle in the morning.,rain,0.91,0.9,13.81,6.3
+2019-03-22,5.82,11.79,Possible light rain in the morning and afternoon.,rain,0.74,0.81,16.64,5.8
+2019-03-23,3.93,10.2,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.73,12.61,6.22
+2019-03-24,4.19,9.96,Possible drizzle in the morning and afternoon.,rain,0.65,0.77,17.03,7.36
+2019-03-25,2.57,11.56,Partly cloudy throughout the day.,partly-cloudy-day,0.39,0.7,8.54,6.52
+2019-03-26,6.51,10.55,Overcast throughout the day.,cloudy,0.9,0.82,11.07,6.54
+2019-03-27,7.28,12.45,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.82,11.31,6.79
+2019-03-28,5.14,11.25,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.77,12.4,5.9
+2019-03-29,1.71,11.83,Overcast throughout the day.,partly-cloudy-day,0.74,0.84,11.9,6.15
+2019-03-30,1.38,11.73,Possible drizzle in the morning.,rain,0.52,0.73,8.58,5.37
+2019-03-31,-0.33,12.36,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.69,3.97,6.1
+2019-04-01,3.87,7.44,Light rain starting in the afternoon.,rain,0.65,0.79,6.77,5.8
+2019-04-02,0.68,8.46,Possible drizzle throughout the day.,rain,0.6,0.84,6.11,5.81
+2019-04-03,3.53,7.23,Light rain throughout the day.,rain,0.73,0.77,10.58,5.97
+2019-04-04,2.08,9.35,Light rain in the morning and afternoon.,rain,0.72,0.81,11.76,5.4
+2019-04-05,5.53,14.49,Partly cloudy throughout the day.,rain,0.47,0.68,16.29,5.88
+2019-04-06,1.89,9.41,Possible drizzle in the afternoon and evening.,rain,0.79,0.9,5.2,5.34
+2019-04-07,6.49,8.58,Overcast throughout the day.,cloudy,0.97,0.92,12.77,5.7
+2019-04-08,5.48,11.05,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.79,13.86,6.54
+2019-04-09,3.64,11.45,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.71,12.71,6.27
+2019-04-10,-2.96,12.16,Foggy overnight.,clear-day,0.18,0.73,3.15,6.51
+2019-04-11,-2.11,11.66,Foggy in the morning.,partly-cloudy-day,0.45,0.77,3.2,5.77
+2019-04-12,-2.22,13.02,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.69,6.6,5.5
+2019-04-13,0.3,11.59,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.6,12.59,6.16
+2019-04-14,0.58,9.69,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.6,11.96,6.22
+2019-04-15,2.62,13.42,Clear throughout the day.,clear-day,0.26,0.62,15.72,6.21
+2019-04-16,6.73,11.55,Light rain starting in the afternoon.,rain,0.55,0.81,12.34,4.62
+2019-04-17,5.82,15.22,Partly cloudy throughout the day.,rain,0.59,0.77,11.92,6.48
+2019-04-18,5.98,17.71,Foggy in the morning.,partly-cloudy-day,0.57,0.79,11.02,6.61
+2019-04-19,4.83,22.45,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.66,5.49,6.38
+2019-04-20,5.94,21.45,Foggy overnight.,partly-cloudy-day,0.83,0.69,5.14,5.55
+2019-04-21,6.14,21.2,Foggy in the morning.,partly-cloudy-day,0.64,0.65,6.78,4.66
+2019-04-22,6.56,23.8,Clear throughout the day.,clear-day,0.08,0.5,9.04,6.22
+2019-04-23,8.96,16.85,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.68,14.47,6.21
+2019-04-24,7.65,14.52,Foggy overnight.,partly-cloudy-day,0.83,0.82,16.0,5.45
+2019-04-25,8.03,16.26,Light rain throughout the day.,rain,0.61,0.78,9.05,5.35
+2019-04-26,7.93,13.46,Light rain throughout the day.,rain,0.73,0.81,10.4,5.35
+2019-04-27,6.68,12.25,Light rain until evening.,rain,0.71,0.84,8.28,4.85
+2019-04-28,7.53,14.36,Possible drizzle in the evening.,rain,0.71,0.8,5.37,7.17
+2019-04-29,7.13,16.04,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.79,6.21,6.28
+2019-04-30,6.04,13.88,Possible drizzle in the evening and overnight.,rain,0.66,0.87,3.72,5.61
+2019-05-01,5.76,14.37,Drizzle in the morning and afternoon.,rain,0.75,0.87,4.27,5.84
+2019-05-02,2.67,15.67,Possible light rain in the evening.,rain,0.55,0.79,7.37,6.14
+2019-05-03,4.78,10.19,Foggy in the evening.,partly-cloudy-day,0.64,0.68,6.6,6.04
+2019-05-04,0.38,11.91,Clear throughout the day.,clear-day,0.29,0.55,7.57,6.26
+2019-05-05,2.83,11.76,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.64,7.56,6.22
+2019-05-06,3.67,10.21,Possible light rain until evening.,rain,0.5,0.76,6.14,4.91
+2019-05-07,4.28,9.67,Possible light rain starting in the afternoon.,rain,0.74,0.81,5.12,4.77
+2019-05-08,4.9,8.97,Light rain throughout the day.,rain,0.81,0.86,12.88,4.96
+2019-05-09,4.89,11.4,Partly cloudy throughout the day.,rain,0.61,0.66,9.4,5.93
+2019-05-10,4.71,12.46,Possible light rain in the afternoon and evening.,rain,0.57,0.71,6.82,5.31
+2019-05-11,-0.42,14.39,Clear throughout the day.,clear-day,0.24,0.68,6.86,6.14
+2019-05-12,-0.09,15.66,Clear throughout the day.,clear-day,0.27,0.6,5.64,6.22
+2019-05-13,3.6,19.9,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.62,6.03,6.22
+2019-05-14,3.11,21.5,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.63,4.58,6.22
+2019-05-15,4.11,24.63,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.65,4.25,5.93
+2019-05-16,9.8,19.03,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.64,11.88,6.37
+2019-05-17,8.62,19.36,Possible drizzle overnight.,clear-day,0.23,0.63,11.5,6.07
+2019-05-18,9.02,12.53,Drizzle in the morning and afternoon.,rain,0.94,0.91,5.32,6.33
+2019-05-19,9.92,15.26,Foggy in the morning.,rain,0.91,0.86,4.77,5.44
+2019-05-20,7.28,16.83,Mostly cloudy throughout the day.,rain,0.74,0.78,6.87,5.32
+2019-05-21,6.51,17.56,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.67,8.59,6.09
+2019-05-22,3.24,15.6,Mostly cloudy throughout the day.,partly-cloudy-day,0.48,0.71,9.8,6.21
+2019-05-23,5.16,13.86,Overcast throughout the day.,partly-cloudy-day,0.81,0.76,12.22,5.83
+2019-05-24,8.42,16.84,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.64,12.08,6.17
+2019-05-25,5.51,13.39,Light rain starting in the afternoon.,rain,0.58,0.88,7.97,5.42
+2019-05-26,10.93,14.53,Light rain in the morning.,rain,0.88,0.87,14.72,4.5
+2019-05-27,7.88,14.38,Possible drizzle in the afternoon and evening.,rain,0.72,0.79,8.43,5.08
+2019-05-28,3.95,15.32,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.73,5.26,5.76
+2019-05-29,0.89,12.06,Light rain starting in the afternoon.,rain,0.67,0.91,3.4,5.12
+2019-05-30,10.65,15.69,Light rain throughout the day.,rain,0.9,0.97,9.57,3.56
+2019-05-31,9.85,17.91,Light rain throughout the day.,rain,0.95,0.96,10.69,3.2
+2019-06-01,9.85,18.65,Light rain overnight.,partly-cloudy-day,0.58,0.81,10.01,5.63
+2019-06-02,12.77,19.1,Light rain in the morning and afternoon.,rain,0.77,0.84,12.02,4.89
+2019-06-03,10.0,14.5,Possible light rain in the morning and afternoon.,rain,0.83,0.88,18.36,5.69
+2019-06-04,8.7,16.19,Light rain starting in the afternoon.,rain,0.65,0.82,6.67,5.64
+2019-06-05,8.82,15.41,Light rain throughout the day.,rain,0.84,0.89,5.59,5.14
+2019-06-06,9.62,16.7,Mostly cloudy throughout the day.,rain,0.67,0.75,8.62,5.79
+2019-06-07,4.87,17.63,Light rain starting in the afternoon.,rain,0.32,0.75,8.8,5.9
+2019-06-08,9.81,17.11,Possible drizzle until evening.,rain,0.34,0.75,7.61,6.03
+2019-06-09,8.22,16.46,Partly cloudy throughout the day.,rain,0.49,0.77,11.45,6.43
+2019-06-10,4.34,19.26,Possible light rain in the evening.,rain,0.35,0.73,6.32,5.59
+2019-06-11,7.99,15.26,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.7,7.53,6.24
+2019-06-12,6.18,15.83,Drizzle in the evening and overnight.,rain,0.57,0.74,9.6,6.7
+2019-06-13,9.35,13.17,Light rain until evening.,rain,0.72,0.7,7.27,5.21
+2019-06-14,7.42,16.26,Heavy rain in the evening and overnight.,rain,0.58,0.72,10.11,5.69
+2019-06-15,10.16,18.45,Possible light rain throughout the day.,rain,0.74,0.75,9.24,6.94
+2019-06-16,9.01,17.01,Possible light rain throughout the day.,rain,0.5,0.73,8.21,6.58
+2019-06-17,10.82,16.87,Possible light rain in the afternoon and evening.,rain,0.79,0.83,14.96,6.18
+2019-06-18,10.95,16.6,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.81,12.29,6.14
+2019-06-19,8.57,18.02,Possible light rain overnight.,rain,0.59,0.78,7.76,6.45
+2019-06-20,9.0,14.61,Possible drizzle in the morning and afternoon.,rain,0.59,0.81,11.36,7.14
+2019-06-21,7.14,16.92,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.7,9.7,6.23
+2019-06-22,8.69,18.88,Clear throughout the day.,clear-day,0.28,0.64,5.21,6.23
+2019-06-23,9.25,22.9,Possible light rain overnight.,clear-day,0.2,0.71,10.24,6.44
+2019-06-24,12.64,15.99,Light rain until evening.,rain,0.86,0.92,9.62,4.54
+2019-06-25,13.45,19.87,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.81,7.86,5.34
+2019-06-26,11.52,23.09,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.7,6.01,6.21
+2019-06-27,8.35,26.51,Clear throughout the day.,clear-day,0.07,0.69,6.66,6.22
+2019-06-28,11.71,23.99,Clear throughout the day.,clear-day,0.23,0.73,11.1,6.22
+2019-06-29,15.01,21.31,Possible light rain in the evening.,rain,0.61,0.85,5.19,5.33
+2019-06-30,12.28,17.93,Possible light rain overnight.,rain,0.73,0.82,15.6,5.72
+2019-07-01,12.08,17.81,Possible light rain in the morning.,rain,0.65,0.77,15.39,5.99
+2019-07-02,10.86,17.92,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.69,10.63,6.66
+2019-07-03,5.78,18.91,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.76,7.48,6.22
+2019-07-04,11.01,16.71,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.75,12.36,6.25
+2019-07-05,12.85,17.5,Possible light rain in the afternoon and evening.,rain,0.92,0.89,12.49,7.27
+2019-07-06,9.06,19.93,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.66,7.66,6.3
+2019-07-07,7.83,18.48,Partly cloudy throughout the day.,partly-cloudy-day,0.39,0.64,5.32,6.36
+2019-07-08,5.27,18.0,Possible light rain in the evening and overnight.,rain,0.44,0.77,4.37,6.12
+2019-07-09,11.9,16.48,Light rain throughout the day.,rain,0.91,0.95,7.22,6.97
+2019-07-10,14.82,19.65,Light rain throughout the day.,rain,0.9,0.92,6.61,6.38
+2019-07-11,14.97,20.69,Possible light rain in the morning.,rain,0.86,0.86,7.79,6.51
+2019-07-12,10.98,22.14,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.8,8.44,6.02
+2019-07-13,13.75,21.16,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.74,9.22,6.02
+2019-07-14,9.56,22.49,Partly cloudy throughout the day.,partly-cloudy-day,0.54,0.71,3.96,6.22
+2019-07-15,11.91,23.9,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.73,4.81,5.47
+2019-07-16,10.87,21.8,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.82,6.0,5.96
+2019-07-17,13.23,18.13,Light rain throughout the day.,rain,0.7,0.88,8.74,7.66
+2019-07-18,10.58,18.53,Possible light rain until evening.,rain,0.66,0.84,12.52,6.44
+2019-07-19,12.86,19.97,Light rain starting in the afternoon.,rain,0.67,0.87,6.98,5.97
+2019-07-20,13.59,19.81,Light rain in the morning.,rain,0.67,0.82,9.1,5.6
+2019-07-21,12.92,18.93,Light rain starting in the afternoon.,rain,0.69,0.83,10.46,6.41
+2019-07-22,15.97,25.09,Light rain in the morning.,rain,0.65,0.83,19.4,5.69
+2019-07-23,18.03,25.03,Possible light rain overnight.,partly-cloudy-day,0.56,0.75,9.68,6.51
+2019-07-24,16.56,22.94,Light rain in the morning.,rain,0.58,0.78,8.57,6.18
+2019-07-25,14.26,30.22,Clear throughout the day.,clear-day,0.31,0.71,9.12,6.06
+2019-07-26,17.51,23.6,Mostly cloudy throughout the day.,partly-cloudy-day,0.52,0.72,8.19,5.84
+2019-07-27,14.47,17.83,Light rain throughout the day.,rain,0.56,0.93,3.8,6.64
+2019-07-28,15.9,21.55,Possible drizzle in the morning and afternoon.,rain,0.89,0.92,8.78,6.43
+2019-07-29,13.97,20.38,Light rain in the morning and afternoon.,rain,0.86,0.89,6.68,6.63
+2019-07-30,11.76,21.91,Possible light rain in the evening.,rain,0.55,0.85,5.08,5.69
+2019-07-31,14.97,23.22,Possible light rain in the afternoon and evening.,rain,0.57,0.84,5.93,5.83
+2019-08-01,12.91,22.91,Possible light rain in the afternoon and evening.,rain,0.55,0.83,5.58,4.62
+2019-08-02,14.61,22.61,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.75,5.92,6.22
+2019-08-03,11.1,23.92,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.83,6.55,6.34
+2019-08-04,14.83,22.09,Possible light rain throughout the day.,rain,0.72,0.86,7.88,5.54
+2019-08-05,14.88,20.11,Light rain in the morning and overnight.,rain,0.59,0.82,10.17,5.82
+2019-08-06,12.22,18.53,Light rain throughout the day.,rain,0.56,0.86,5.42,5.54
+2019-08-07,11.94,20.45,Possible light rain in the afternoon and evening.,rain,0.5,0.85,9.9,5.32
+2019-08-08,10.3,21.09,Mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.79,7.31,6.59
+2019-08-09,13.78,20.32,Rain throughout the day.,rain,0.74,0.91,13.41,5.42
+2019-08-10,13.67,23.23,Possible light rain throughout the day.,rain,0.57,0.86,7.1,5.69
+2019-08-11,11.05,16.07,Light rain throughout the day.,rain,0.87,0.94,5.18,3.36
+2019-08-12,7.02,15.83,Possible drizzle in the evening.,rain,0.52,0.82,5.87,6.53
+2019-08-13,6.89,17.68,Foggy in the morning.,partly-cloudy-day,0.4,0.78,9.07,5.87
+2019-08-14,9.36,15.98,Light rain throughout the day.,rain,0.73,0.93,5.3,5.03
+2019-08-15,13.06,17.71,Possible drizzle in the morning and overnight.,rain,0.8,0.76,10.31,5.7
+2019-08-16,13.74,20.28,"Light rain until afternoon, starting again overnight.",rain,0.75,0.89,10.35,6.83
+2019-08-17,12.05,17.61,Possible light rain throughout the day.,rain,0.48,0.79,15.98,7.17
+2019-08-18,12.54,17.53,Possible light rain in the morning and afternoon.,rain,0.72,0.85,16.14,6.47
+2019-08-19,11.71,17.49,Possible drizzle in the morning and overnight.,rain,0.62,0.81,13.99,6.95
+2019-08-20,9.9,17.65,Possible drizzle in the morning and afternoon.,rain,0.58,0.81,8.28,6.17
+2019-08-21,11.05,18.79,Light rain in the afternoon and evening.,rain,0.76,0.86,10.54,5.95
+2019-08-22,9.34,18.67,Light rain starting in the afternoon.,rain,0.67,0.88,16.09,5.55
+2019-08-23,14.88,21.21,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.81,14.23,6.25
+2019-08-24,13.77,24.9,Clear throughout the day.,clear-day,0.28,0.73,4.68,6.22
+2019-08-25,10.6,28.99,Foggy overnight.,clear-day,0.17,0.75,5.5,5.94
+2019-08-26,13.25,21.44,Foggy overnight.,partly-cloudy-day,0.63,0.81,9.31,5.22
+2019-08-27,8.77,21.44,Foggy in the morning.,partly-cloudy-day,0.36,0.8,5.35,5.67
+2019-08-28,12.75,17.76,Possible drizzle in the morning and afternoon.,rain,0.64,0.79,9.46,6.31
+2019-08-29,11.63,17.6,Possible drizzle throughout the day.,rain,0.63,0.83,14.71,6.39
+2019-08-30,13.35,18.56,Rain throughout the day.,rain,0.82,0.89,16.68,6.17
+2019-08-31,10.84,16.91,Light rain until evening.,rain,0.64,0.84,13.79,6.21
+2019-09-01,9.81,15.78,Partly cloudy throughout the day.,rain,0.54,0.78,9.88,7.01
+2019-09-02,8.79,15.4,Light rain throughout the day.,rain,0.83,0.95,13.29,5.52
+2019-09-03,13.85,16.55,Light rain throughout the day.,rain,0.87,0.94,10.82,7.05
+2019-09-04,9.82,16.79,Possible light rain in the morning and afternoon.,rain,0.69,0.82,12.69,5.81
+2019-09-05,7.1,17.4,Light rain and windy overnight.,rain,0.42,0.77,12.62,6.2
+2019-09-06,10.88,16.25,Light rain in the morning and afternoon.,rain,0.75,0.82,15.43,5.73
+2019-09-07,4.72,17.71,Clear throughout the day.,clear-day,0.26,0.73,4.71,6.21
+2019-09-08,3.52,16.26,Light rain overnight.,partly-cloudy-day,0.72,0.86,3.39,5.28
+2019-09-09,9.28,16.37,Light rain until evening.,rain,0.66,0.93,5.26,5.87
+2019-09-10,10.05,16.22,Light rain in the evening and overnight.,rain,0.58,0.82,8.44,5.98
+2019-09-11,12.78,17.21,Possible light rain in the morning.,rain,0.71,0.83,17.82,6.4
+2019-09-12,9.22,16.31,Possible light rain in the morning and afternoon.,rain,0.71,0.87,10.17,6.87
+2019-09-13,8.28,16.63,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.76,9.35,6.22
+2019-09-14,8.76,17.18,Possible light rain in the evening and overnight.,rain,0.58,0.81,16.49,5.85
+2019-09-15,7.28,15.43,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.71,11.67,6.21
+2019-09-16,4.68,15.76,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.81,7.67,6.15
+2019-09-17,6.41,15.81,Clear throughout the day.,partly-cloudy-day,0.38,0.69,7.73,6.22
+2019-09-18,8.47,17.57,Foggy overnight.,partly-cloudy-day,0.69,0.82,6.97,6.51
+2019-09-19,8.3,18.91,Foggy in the morning and overnight.,partly-cloudy-day,0.57,0.88,6.12,5.33
+2019-09-20,6.04,22.9,Foggy in the morning.,partly-cloudy-day,0.44,0.81,4.18,3.99
+2019-09-21,6.54,22.95,Foggy in the morning.,clear-day,0.09,0.73,9.06,5.89
+2019-09-22,12.41,18.67,Light rain throughout the day.,rain,0.46,0.91,7.89,5.52
+2019-09-23,12.9,17.89,"Light rain until morning, starting again in the evening.",rain,0.66,0.82,7.65,5.45
+2019-09-24,13.1,19.57,Light rain throughout the day.,rain,0.78,0.93,7.42,6.48
+2019-09-25,13.0,18.15,Light rain throughout the day.,rain,0.83,0.92,4.12,5.28
+2019-09-26,12.63,15.75,Light rain throughout the day.,rain,0.67,0.88,11.4,7.39
+2019-09-27,9.03,14.55,Light rain in the morning and afternoon.,rain,0.62,0.89,5.9,6.43
+2019-09-28,7.86,16.33,Partly cloudy throughout the day.,rain,0.48,0.87,5.6,5.82
+2019-09-29,8.28,16.28,Possible drizzle in the afternoon.,rain,0.53,0.82,5.91,5.88
+2019-09-30,5.47,15.7,Possible drizzle in the evening and overnight.,rain,0.49,0.87,7.14,6.03
+2019-10-01,3.99,12.52,Partly cloudy throughout the day.,rain,0.52,0.69,9.82,6.3
+2019-10-02,-0.12,13.58,Clear throughout the day.,clear-day,0.26,0.77,4.46,6.22
+2019-10-03,0.18,11.76,Rain in the evening and overnight.,rain,0.38,0.82,7.9,6.13
+2019-10-04,7.98,13.06,Possible drizzle in the morning.,rain,0.88,0.87,12.14,5.04
+2019-10-05,8.7,12.66,Rain throughout the day.,rain,0.7,0.89,9.02,5.81
+2019-10-06,9.46,12.52,Rain in the morning and afternoon.,rain,0.88,0.92,9.77,5.68
+2019-10-07,10.03,16.28,Light rain until evening.,rain,0.7,0.84,12.6,7.34
+2019-10-08,9.97,13.23,Light rain throughout the day.,rain,0.69,0.85,18.62,6.68
+2019-10-09,8.96,11.77,"Possible drizzle until afternoon, starting again overnight.",rain,0.63,0.85,16.21,6.37
+2019-10-10,9.82,13.27,Light rain throughout the day.,rain,0.76,0.87,14.29,5.96
+2019-10-11,9.19,14.27,Possible light rain in the morning and afternoon.,rain,0.63,0.79,17.98,7.51
+2019-10-12,7.05,13.58,Foggy overnight.,rain,0.58,0.85,10.6,6.5
+2019-10-13,3.43,10.82,Rain starting in the afternoon.,rain,0.64,0.95,4.05,4.34
+2019-10-14,5.28,12.86,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.9,4.81,5.58
+2019-10-15,7.42,14.22,Foggy in the morning.,partly-cloudy-day,0.81,0.86,4.76,5.24
+2019-10-16,5.74,13.7,Light rain in the morning.,rain,0.58,0.84,7.43,5.83
+2019-10-17,2.02,14.15,Light rain throughout the day.,rain,0.56,0.87,7.86,6.91
+2019-10-18,7.5,12.33,"Light rain until morning, starting again in the evening.",rain,0.73,0.89,5.04,6.45
+2019-10-19,7.71,13.6,Light rain in the morning.,rain,0.65,0.78,5.21,6.35
+2019-10-20,2.39,12.27,Foggy overnight.,partly-cloudy-day,0.32,0.73,5.0,6.21
+2019-10-21,-2.42,9.61,Foggy in the morning.,partly-cloudy-day,0.6,0.88,4.09,5.36
+2019-10-22,8.55,11.66,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.82,15.1,6.22
+2019-10-23,10.76,14.72,Light rain in the evening and overnight.,rain,0.76,0.78,13.01,6.01
+2019-10-24,4.07,12.71,Possible drizzle in the morning and afternoon.,rain,0.71,0.83,9.89,6.4
+2019-10-25,-0.06,7.65,Clear throughout the day.,clear-day,0.31,0.82,6.79,6.22
+2019-10-26,1.83,10.41,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.78,9.6,6.32
+2019-10-27,1.06,10.89,Clear throughout the day.,partly-cloudy-day,0.34,0.78,11.03,6.23
+2019-10-28,-2.78,9.86,Partly cloudy throughout the day.,clear-day,0.24,0.84,2.61,6.51
+2019-10-29,-3.24,10.75,Foggy overnight.,partly-cloudy-day,0.59,0.87,3.32,6.22
+2019-10-30,-1.57,10.55,Foggy in the morning and overnight.,partly-cloudy-day,0.53,0.85,5.2,4.62
+2019-10-31,-3.64,10.87,Light rain overnight.,partly-cloudy-day,0.33,0.83,5.23,6.09
+2019-11-01,5.63,10.5,Light rain throughout the day.,rain,0.97,0.96,7.48,2.0
+2019-11-02,6.32,12.15,Light rain in the morning.,rain,0.76,0.95,3.76,6.21
+2019-11-03,4.39,11.8,Possible drizzle in the afternoon.,rain,0.73,0.88,7.97,6.07
+2019-11-04,8.12,10.62,Possible light rain until evening.,rain,0.7,0.87,13.51,5.42
+2019-11-05,4.17,10.33,Foggy overnight.,partly-cloudy-day,0.74,0.77,6.5,6.48
+2019-11-06,1.9,7.85,Possible drizzle starting in the afternoon.,rain,0.61,0.88,5.05,5.74
+2019-11-07,4.27,8.18,Possible drizzle in the morning.,rain,0.68,0.84,12.76,5.81
+2019-11-08,-2.02,7.81,Clear throughout the day.,clear-day,0.21,0.77,3.14,6.22
+2019-11-09,-1.94,5.29,Clear throughout the day.,partly-cloudy-day,0.34,0.83,7.07,6.16
+2019-11-10,-3.96,5.72,Light rain in the evening and overnight.,rain,0.32,0.82,4.85,6.1
+2019-11-11,3.05,7.38,Light rain throughout the day.,rain,0.78,0.87,11.88,5.98
+2019-11-12,-2.54,10.76,Possible drizzle in the morning.,rain,0.43,0.85,6.42,5.93
+2019-11-13,-3.52,5.94,Foggy in the morning and overnight.,partly-cloudy-day,0.62,0.92,4.95,5.51
+2019-11-14,-2.85,6.49,Clear throughout the day.,clear-day,0.26,0.76,4.55,5.55
+2019-11-15,-1.33,8.69,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.76,4.64,6.34
+2019-11-16,-1.79,4.63,Clear throughout the day.,clear-day,0.27,0.93,1.7,6.01
+2019-11-17,-3.99,6.45,Foggy overnight.,clear-day,0.3,0.94,0.92,5.6
+2019-11-18,-7.17,4.73,Foggy in the morning and overnight.,partly-cloudy-day,0.35,0.93,0.86,3.7
+2019-11-19,-8.04,3.67,Possible light rain in the evening and overnight.,rain,0.69,0.89,5.03,4.58
+2019-11-20,2.95,7.4,Possible drizzle in the morning.,rain,0.68,0.86,9.32,6.15
+2019-11-21,2.83,7.78,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.74,12.6,7.35
+2019-11-22,3.65,8.91,Mostly cloudy throughout the day.,rain,0.75,0.88,8.28,10.0
+2019-11-23,5.09,9.38,Mostly cloudy throughout the day.,rain,0.98,0.9,9.25,9.64
+2019-11-24,7.62,10.02,Mostly cloudy throughout the day.,rain,0.99,0.88,5.47,9.39
+2019-11-25,8.41,10.45,Mostly cloudy throughout the day.,rain,0.91,0.87,7.83,9.82
+2019-11-26,8.55,10.57,Mostly cloudy throughout the day.,rain,0.96,0.85,6.8,10.0
+2019-11-27,5.79,9.4,Mostly cloudy throughout the day.,rain,0.87,0.85,6.82,9.03
+2019-11-28,2.3,6.67,Mostly cloudy throughout the day.,partly-cloudy-day,0.4,0.79,5.15,10.0
+2019-11-29,1.08,6.14,Mostly cloudy throughout the day.,clear-day,0.18,0.76,4.85,9.11
+2019-11-30,0.42,5.69,Mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.72,4.79,10.0
