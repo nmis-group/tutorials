@@ -1,0 +1,9 @@
+name,id,test_1,test_2
+John Reilly,1,95,50
+Mark Boyle,5,100,100
+David Smith,2,NA,NA
+Peter Doe,3,85,Missing value
+James Bond,NA,Missing value,100
+Joe Blogs,
+Jane Balden,Missing,Missing,100
+NA,NA,NA,NA
